@@ -1,0 +1,5126 @@
+[
+  {
+    "Event Name": "Zero Trust World 2026",
+    "Event Date": "3/4/2026",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "INTERFACE Seattle 2025",
+    "Event Date": "12/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "12/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: CISSP Certificati...",
+    "Event Date": "12/9/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Detroit",
+    "Event Date": "12/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: Cost Estimating F...",
+    "Event Date": "12/8/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner Identity & Access Mana...",
+    "Event Date": "12/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Open Source Summit Japan 2025",
+    "Event Date": "12/8/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "AI_dev: Open Source GenAI & ML...",
+    "Event Date": "12/8/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "12/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit Decemb...",
+    "Event Date": "12/4/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "12/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: DevSecOps 2025",
+    "Event Date": "12/4/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Houston",
+    "Event Date": "12/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SecureWorld: East Virtual Conf...",
+    "Event Date": "12/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC CIO Summit: France 2025",
+    "Event Date": "12/3/2025",
+    "Event Type": "Conference",
+    "Country": "France",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Heliview State of Cybersecurit...",
+    "Event Date": "12/2/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "11/27/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Next IT Security DACH: Novembe...",
+    "Event Date": "11/27/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Heliview Cyber Security Experi...",
+    "Event Date": "11/27/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC Digital Enterprise Summit:...",
+    "Event Date": "11/25/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CISSP certification training",
+    "Event Date": "11/24/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "MLcon Berlin 2025",
+    "Event Date": "11/24/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Certified Data Management Prof...",
+    "Event Date": "11/24/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Conf42: Robotics 2025",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC Digital Enterprise Summit:...",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Generative AI Summit: Toronto ...",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Transform Finance: FinCrime Le...",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC Security Summit: India 202...",
+    "Event Date": "11/20/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "11/19/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "11/19/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SuriCon 2025",
+    "Event Date": "11/19/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "11/18/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC Digital Enterprise Summit:...",
+    "Event Date": "11/18/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Transformational CISO Assembly...",
+    "Event Date": "11/18/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "11/18/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "11/18/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IT Security Conference NYC 202...",
+    "Event Date": "11/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "AI By The Bay 2025",
+    "Event Date": "11/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "QCon San Francisco Internation...",
+    "Event Date": "11/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Network Group: Information...",
+    "Event Date": "11/17/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner IT Symposium/Xpo: Koch...",
+    "Event Date": "11/17/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "The Human Behavior Conference ...",
+    "Event Date": "11/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Dubai 20...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Dallas 2...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: San Jose",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC Digital Enterprise Summit:...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "Norway",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Next IT Security Benelux: Nove...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Heliview State of Cybersecurit...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Mindfluence: CISO/Executive Le...",
+    "Event Date": "11/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: CISO 360 Mi...",
+    "Event Date": "11/11/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Riyadh 2...",
+    "Event Date": "11/11/2025",
+    "Event Type": "Conference",
+    "Country": "Saudi Arabia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Pulse Conferences: 6th CISO 36...",
+    "Event Date": "11/11/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC Digital Enterprise Summit:...",
+    "Event Date": "11/11/2025",
+    "Event Type": "Conference",
+    "Country": "Finland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CISO Dallas 2025",
+    "Event Date": "11/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gartner IT Symposium/Xpo: Barc...",
+    "Event Date": "11/10/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "KubeCon + CloudNativeCon North...",
+    "Event Date": "11/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DEATHCon 2025",
+    "Event Date": "11/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Queen City Con 2025",
+    "Event Date": "11/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: Cyber Excha...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Dublin 2...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "Ireland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TechNext AI & Cybersecurity Su...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Conf42: Prompt Engineering 202...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Columbus",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Chief AI Officer Summit: Londo...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Generative AI Summit: London 2...",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "INTERFACE Omaha 2025",
+    "Event Date": "11/6/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Open Source Summit Korea 2025",
+    "Event Date": "11/5/2025",
+    "Event Type": "Conference",
+    "Country": "South Korea",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: London 2...",
+    "Event Date": "11/4/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Cloud USA 2025",
+    "Event Date": "11/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: JavaScript 2025",
+    "Event Date": "10/30/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Heliview Digital Identity & Tr...",
+    "Event Date": "10/30/2025",
+    "Event Type": "Conference",
+    "Country": "Belgium",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Seventh Annual Tribal Security...",
+    "Event Date": "10/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ICS Cybersecurity Conference U...",
+    "Event Date": "10/27/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gen AI Conference NYC 2025",
+    "Event Date": "10/27/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC Security Summit: Netherlan...",
+    "Event Date": "10/25/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SecureWV 16 2025",
+    "Event Date": "10/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "10/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "10/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "cidaas connect 2025",
+    "Event Date": "10/23/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Next IT Security Nordics: Octo...",
+    "Event Date": "10/23/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Factor Security Day 2025",
+    "Event Date": "10/22/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Identity Days 2025",
+    "Event Date": "10/21/2025",
+    "Event Type": "Conference",
+    "Country": "France",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Washingt...",
+    "Event Date": "10/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: San Diego",
+    "Event Date": "10/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: CISSP Certificati...",
+    "Event Date": "10/21/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner IT Symposium/Xpo: Orla...",
+    "Event Date": "10/20/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Mindfluence: CISO/Executive Le...",
+    "Event Date": "10/19/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "NoHat 2025",
+    "Event Date": "10/18/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Conf42: Kube Native 2025",
+    "Event Date": "10/16/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Miami",
+    "Event Date": "10/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Transform Finance: Fraud & Sca...",
+    "Event Date": "10/16/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "INTERFACE Spokane 2025",
+    "Event Date": "10/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "European Blockchain Convention...",
+    "Event Date": "10/16/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Chief AI Officer Summit: Bosto...",
+    "Event Date": "10/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Generative AI Summit: Boston 2...",
+    "Event Date": "10/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IT Security Camp October 2025",
+    "Event Date": "10/15/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "LogicON 2025",
+    "Event Date": "10/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS Boston Information Securi...",
+    "Event Date": "10/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ATT&CKcon 6.0 2025",
+    "Event Date": "10/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Corinium: CDAO Fall 2025",
+    "Event Date": "10/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Platform Summit 2025",
+    "Event Date": "10/13/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CDAO Perth 2025",
+    "Event Date": "10/13/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CornCon Cybersecurity Conferen...",
+    "Event Date": "10/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "10/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Toronto",
+    "Event Date": "10/9/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "10/8/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "10/8/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CyberWeeK 2024 Africa",
+    "Event Date": "10/7/2025",
+    "Event Type": "Conference",
+    "Country": "Kenya",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "Cyber Security For Critical Ma...",
+    "Event Date": "10/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Corinium: CDAO Malaysia 2025",
+    "Event Date": "10/7/2025",
+    "Event Type": "Conference",
+    "Country": "Malaysia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Cloud Foundry Day Europe 2025",
+    "Event Date": "10/7/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Network Group: Information...",
+    "Event Date": "10/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "HACKTIVITY 2025",
+    "Event Date": "10/3/2025",
+    "Event Type": "Conference",
+    "Country": "Hungary",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "10/2/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: Incident Management 20...",
+    "Event Date": "10/2/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Business Process Management (B...",
+    "Event Date": "10/2/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "DevOpsDays: Des Moines 2025",
+    "Event Date": "10/2/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Eidhoven 2025",
+    "Event Date": "10/2/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Global CISO Forum 2025",
+    "Event Date": "10/1/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Hacker Halted 2025",
+    "Event Date": "10/1/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Identity Management & Access C...",
+    "Event Date": "10/1/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "HOU.SEC.CON 2025",
+    "Event Date": "9/30/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Civo Navigate London 2025",
+    "Event Date": "9/30/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Network Group: Information...",
+    "Event Date": "9/29/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "MLcon New York 2025",
+    "Event Date": "9/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CyberWeek Africa 2025",
+    "Event Date": "9/28/2025",
+    "Event Type": "Conference",
+    "Country": "Kenya",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "COSAC 2025",
+    "Event Date": "9/28/2025",
+    "Event Type": "Conference",
+    "Country": "Ireland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Kraków 2025",
+    "Event Date": "9/27/2025",
+    "Event Type": "Conference",
+    "Country": "Poland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "RomHack 2025",
+    "Event Date": "9/27/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "9/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Santa Cl...",
+    "Event Date": "9/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Orange County",
+    "Event Date": "9/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC Security Summit: Denmark 2...",
+    "Event Date": "9/25/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Web Security Camp mit Martina ...",
+    "Event Date": "9/25/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Mindfluence: CISO/Executive Le...",
+    "Event Date": "9/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "VB2025",
+    "Event Date": "9/24/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Auto-ISAC Cybersecurity Summit...",
+    "Event Date": "9/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Certified Cost Technician (CCT...",
+    "Event Date": "9/23/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Certified Cost Professional (C...",
+    "Event Date": "9/23/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Tyson's Corner",
+    "Event Date": "9/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC Security Summit: Norway 20...",
+    "Event Date": "9/23/2025",
+    "Event Type": "Conference",
+    "Country": "Norway",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC CIO Summit: Spain 2025",
+    "Event Date": "9/23/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "OWASP AppSec Days France 2025",
+    "Event Date": "9/23/2025",
+    "Event Type": "Conference",
+    "Country": "France",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Edmonton 2025",
+    "Event Date": "9/22/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "NDC Security: TechTown 2025",
+    "Event Date": "9/22/2025",
+    "Event Type": "Conference",
+    "Country": "Norway",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner Security & Risk Manage...",
+    "Event Date": "9/22/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner Security & Risk Manage...",
+    "Event Date": "9/22/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "KI .NET Camp I September 2025",
+    "Event Date": "9/22/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Conf42: MLOps 2025",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CISO Middle East Summit 2025",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IT Security Camp September 202...",
+    "Event Date": "9/18/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Philadelphia",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "entwickler Summit",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC Security Summit: Sweden 20...",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "INTERFACE Salt Lake City 2025",
+    "Event Date": "9/18/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: CISO 360 La...",
+    "Event Date": "9/17/2025",
+    "Event Type": "Conference",
+    "Country": "Mexico",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "IDC Security Summit: Australia...",
+    "Event Date": "9/17/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "IDC Security Summit: Finland 2...",
+    "Event Date": "9/16/2025",
+    "Event Type": "Conference",
+    "Country": "Finland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Cyber Security for Critical As...",
+    "Event Date": "9/16/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CISSP certification training",
+    "Event Date": "9/15/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CrowdTour Las Vegas 2025",
+    "Event Date": "9/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: Cost Estimating F...",
+    "Event Date": "9/15/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "DevOpsDays: Cairo 2025",
+    "Event Date": "9/15/2025",
+    "Event Type": "Conference",
+    "Country": "Egypt",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "Security BSides Ahmedabad",
+    "Event Date": "9/12/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "IDC Security Summit: Thailand ...",
+    "Event Date": "9/12/2025",
+    "Event Type": "Conference",
+    "Country": "Thailand",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Web 3.0 and AI",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Monterre...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Mexico",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "Web 3.0 & Artificial Intellige...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Chief AI Officer Summit: Berli...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Generative AI Summit: Berlin 2...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "9/11/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "GoSec 2025",
+    "Event Date": "9/10/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "GoSec 2025",
+    "Event Date": "9/10/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Nordic Cyber Summit 2025",
+    "Event Date": "9/10/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "DevOpsDays: Vilnius 2025",
+    "Event Date": "9/10/2025",
+    "Event Type": "Conference",
+    "Country": "Lithuania",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CDAO Melbourne 2025",
+    "Event Date": "9/10/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Mexico C...",
+    "Event Date": "9/9/2025",
+    "Event Type": "Conference",
+    "Country": "Mexico",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "16th Annual Billington CyberSe...",
+    "Event Date": "9/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Chicago",
+    "Event Date": "9/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Transformational CISO Assembly...",
+    "Event Date": "9/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gartner IT Symposium/Xpo: Gold...",
+    "Event Date": "9/8/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Johannes...",
+    "Event Date": "9/5/2025",
+    "Event Type": "Conference",
+    "Country": "South Africa",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "DevOpsDays: Santiago 2025",
+    "Event Date": "9/5/2025",
+    "Event Type": "Conference",
+    "Country": "Chile",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "9/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "9/4/2025",
+    "Event Type": "Conference",
+    "Country": "France",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Conf42: Platform Engineering 2...",
+    "Event Date": "9/4/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Mexico City",
+    "Event Date": "9/4/2025",
+    "Event Type": "Conference",
+    "Country": "Mexico",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "Transform Finance: FinCrime & ...",
+    "Event Date": "9/4/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Blue Team Con 2025",
+    "Event Date": "9/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Cape Tow...",
+    "Event Date": "9/3/2025",
+    "Event Type": "Conference",
+    "Country": "South Africa",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "INFOSEK 2025",
+    "Event Date": "9/3/2025",
+    "Event Type": "Conference",
+    "Country": "Slovenia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Certified Cloud Security Profe...",
+    "Event Date": "9/1/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The International Conference o...",
+    "Event Date": "9/1/2025",
+    "Event Type": "Conference",
+    "Country": "Bulgaria",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Generative AI Summit: Los Ange...",
+    "Event Date": "8/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SecureWorld: Critical Infrastr...",
+    "Event Date": "8/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Linux Security Summit (LSS) Eu...",
+    "Event Date": "8/28/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "AI_dev: Open Source GenAI & ML...",
+    "Event Date": "8/28/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "INTERFACE Boise 2025",
+    "Event Date": "8/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Open Source Summit Europe 2025",
+    "Event Date": "8/25/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Bxsec Security Conference 2025",
+    "Event Date": "8/23/2025",
+    "Event Type": "Conference",
+    "Country": "Brazil",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "BSides Saskatoon 2025",
+    "Event Date": "8/22/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Lima 2025",
+    "Event Date": "8/22/2025",
+    "Event Type": "Conference",
+    "Country": "Peru",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "8/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "8/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: Rustlang 2025",
+    "Event Date": "8/21/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Denver",
+    "Event Date": "8/19/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Corinium: CISO Singapore 2025",
+    "Event Date": "8/19/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "DevOpsDays: Rio De Janeiro 202...",
+    "Event Date": "8/16/2025",
+    "Event Type": "Conference",
+    "Country": "Brazil",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "8/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Sao Paulo",
+    "Event Date": "8/14/2025",
+    "Event Type": "Conference",
+    "Country": "Brazil",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Charlotte",
+    "Event Date": "8/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "INTERFACE Kansas City 2025",
+    "Event Date": "8/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "USENIX Security Symposium 2025",
+    "Event Date": "8/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Kansas City 2025",
+    "Event Date": "8/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Austin",
+    "Event Date": "8/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "USENIX WOOT Conference on Offe...",
+    "Event Date": "8/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "USENIX Symposium on Vehicle Se...",
+    "Event Date": "8/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Corinium: CISO Executive Netwo...",
+    "Event Date": "8/11/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "WHY2025",
+    "Event Date": "8/8/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Ottawa",
+    "Event Date": "8/7/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Corinium: CISO Chicago 2025",
+    "Event Date": "8/6/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "KubeCon + CloudNativeCon India...",
+    "Event Date": "8/6/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Open Source Summit India 2025",
+    "Event Date": "8/5/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Skytalks at BSidesLV 2025",
+    "Event Date": "8/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Diana Initiative 2025",
+    "Event Date": "8/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IEEE International Conference ...",
+    "Event Date": "8/4/2025",
+    "Event Type": "Conference",
+    "Country": "Greece",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Black Hat USA 2025",
+    "Event Date": "8/2/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "7/31/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "INTERFACE Montana 2025",
+    "Event Date": "7/30/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Cybersecurity, Data Breach & D...",
+    "Event Date": "7/29/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Calgary",
+    "Event Date": "7/24/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Buenos Aires",
+    "Event Date": "7/24/2025",
+    "Event Type": "Conference",
+    "Country": "Argentina",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SecureWorld: Artificial Intell...",
+    "Event Date": "7/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: Governance ...",
+    "Event Date": "7/23/2025",
+    "Event Type": "Conference",
+    "Country": "Kenya",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "London International Youth Sci...",
+    "Event Date": "7/23/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Corinium: CISO Melbourne 2025",
+    "Event Date": "7/22/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "7/22/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "7/17/2025",
+    "Event Type": "Conference",
+    "Country": "Indonesia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "7/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CyberLab Con 2025",
+    "Event Date": "7/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Namma Privacy 2025",
+    "Event Date": "7/17/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Seattle",
+    "Event Date": "7/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Cybersecurity Summit: New Delh...",
+    "Event Date": "7/17/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "7/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "7/10/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Automotive Grade Linux All Mem...",
+    "Event Date": "7/9/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "USENIX Annual Technical Confer...",
+    "Event Date": "7/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "USENIX Symposium on Operating ...",
+    "Event Date": "7/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IFIP International Symposium o...",
+    "Event Date": "7/7/2025",
+    "Event Type": "Conference",
+    "Country": "Greece",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Pulse Conferences: Party in th...",
+    "Event Date": "7/3/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "7/3/2025",
+    "Event Type": "Conference",
+    "Country": "Malaysia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "AKJ Associates: Securing the P...",
+    "Event Date": "7/3/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Pulse Conferences: 8th Party i...",
+    "Event Date": "7/3/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "AKJ Associates: Securing Finan...",
+    "Event Date": "7/2/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "AKJ Associates: Securing the L...",
+    "Event Date": "7/2/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Precision in Pharma Supply Cha...",
+    "Event Date": "7/2/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CYDES Cyber Defence and Securi...",
+    "Event Date": "7/1/2025",
+    "Event Type": "Conference",
+    "Country": "Malaysia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Certified Cloud Security Profe...",
+    "Event Date": "6/30/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Recon Conference 2025",
+    "Event Date": "6/27/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "6/26/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "6/26/2025",
+    "Event Type": "Conference",
+    "Country": "Thailand",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "6/26/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: CISSP Certificati...",
+    "Event Date": "6/26/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "European Conference on Cyber W...",
+    "Event Date": "6/26/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Linux Security Summit (LSS) No...",
+    "Event Date": "6/26/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CISO India Connect 2025",
+    "Event Date": "6/26/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Reuters Events: Global Energy ...",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Technology First: Cybersecurit...",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "TECHSPO Atlanta 2025",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Mexico City 20...",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "Mexico",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "IT Security Camp June 2025",
+    "Event Date": "6/25/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "6/25/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "6/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "AKJ Associates: e-Crime & Cybe...",
+    "Event Date": "6/24/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CISO Brisbane 2025",
+    "Event Date": "6/24/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "The Network Group: CIO Network...",
+    "Event Date": "6/23/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Open Source Summit North Ameri...",
+    "Event Date": "6/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FIRST Conference 2025",
+    "Event Date": "6/22/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TROOPERS 2025",
+    "Event Date": "6/22/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "EuskalHack Security Congress V...",
+    "Event Date": "6/20/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "Turkey",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Conf42: Quantum Computing 2025",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Ignite on Tour: Copenhagen 202...",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Access42 Cybersecurity Summit ...",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Ignite on Tour: Copenhagen 202...",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SecureWorld: West Virtual Conf...",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SecretCon 2025",
+    "Event Date": "6/19/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: CISO 360 Gl...",
+    "Event Date": "6/18/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Pulse Conferences: 9th CISO 36...",
+    "Event Date": "6/18/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "DevOpsDays: Amsterdam 2025",
+    "Event Date": "6/18/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CDAO Mexico 2025",
+    "Event Date": "6/18/2025",
+    "Event Type": "Conference",
+    "Country": "Mexico",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "The Network Group: CIO Network...",
+    "Event Date": "6/18/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "6/18/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable New York...",
+    "Event Date": "6/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "6/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Confidential Computing Summit ...",
+    "Event Date": "6/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "InCyber Forum Americas",
+    "Event Date": "6/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gartner Data & Analytics Summi...",
+    "Event Date": "6/17/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "2nd Government Cybersecurity S...",
+    "Event Date": "6/17/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Unhacked International Cyber S...",
+    "Event Date": "6/16/2025",
+    "Event Type": "Conference",
+    "Country": "Czech Republic",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "KubeCon + CloudNativeCon Japan...",
+    "Event Date": "6/16/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Bank IT USA 2025",
+    "Event Date": "6/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Workshop on Whole-Lifecycle Se...",
+    "Event Date": "6/16/2025",
+    "Event Type": "Conference",
+    "Country": "Ireland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "World Conference on Data Scien...",
+    "Event Date": "6/16/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Bank IT Conference NYC, One Wo...",
+    "Event Date": "6/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Hak4Kidz 2025",
+    "Event Date": "6/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Layer 8 Conference",
+    "Event Date": "6/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "VULNCON 2025",
+    "Event Date": "6/14/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Elbsides 2025",
+    "Event Date": "6/13/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "INTERFACE Phoenix 2025",
+    "Event Date": "6/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "6/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "HMG Strategy: Annual New York ...",
+    "Event Date": "6/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "6/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: London",
+    "Event Date": "6/12/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Cloud and AI Innovation Summit...",
+    "Event Date": "6/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Events 4 Sure 2025: Global GRC...",
+    "Event Date": "6/11/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Jack Henry Cybersecurity & Fra...",
+    "Event Date": "6/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CyberSec India Expo",
+    "Event Date": "6/11/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Cyber Security for Critical As...",
+    "Event Date": "6/11/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "6/11/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "6/11/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CrowdTour Minneapolis 2025",
+    "Event Date": "6/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Tribal Emergency Management Co...",
+    "Event Date": "6/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Telecom Threat Intelligenc...",
+    "Event Date": "6/10/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "KubeCon + CloudNativeCon China...",
+    "Event Date": "6/10/2025",
+    "Event Type": "Conference",
+    "Country": "China",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Gartner Security & Risk Manage...",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "USENIX Conference on Privacy E...",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "InfoQ Dev Summit Boston 2025",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "TECHSPO Boston 2025",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC CIO Summit: Austria 2025",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "Austria",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ShowMeCon 2025",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gartner Security & Risk Manage...",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gartner Security & Risk Manage...",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "International Conference on Ap...",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Reuters Events: Supply Chain U...",
+    "Event Date": "6/9/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Buffalo 2025",
+    "Event Date": "6/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "HackInBo® Classic Edition Spr...",
+    "Event Date": "6/7/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "HackInBo® Business Edition Sp...",
+    "Event Date": "6/6/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CrowdTour Calgary 2025",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: Observability 2025",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Cyber Resilience Forum 2025",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Boston",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "TECHSPO Dallas-Fort Worth 2025",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Chief AI Officer Summit: New Y...",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Generative AI Summit: New York...",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "6/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "2030: The Future of Technology...",
+    "Event Date": "6/4/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Ignite on Tour: Dallas 2025",
+    "Event Date": "6/4/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: Cyber 100 C...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "RVAsec 2025",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Chicago ...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Pulse Conferences: Cyber 100 C...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "HealthSec Summit: Cyber Securi...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Knoxville 2025",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Reuters Events: Road Transport...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ICS/SCADA Cybersecurity Sympos...",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Infosecurity Europe 2025",
+    "Event Date": "6/3/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Computerworld Cyber ​​Brie...",
+    "Event Date": "6/2/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Certified Data Management Prof...",
+    "Event Date": "6/2/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TECHSPO Kansas City 2025 Techn...",
+    "Event Date": "6/2/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CONFidence 2025",
+    "Event Date": "6/2/2025",
+    "Event Type": "Conference",
+    "Country": "Poland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner Data & Analytics Summi...",
+    "Event Date": "6/2/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "BSides312",
+    "Event Date": "6/1/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "2025 NICE Conference and Expo",
+    "Event Date": "6/1/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Lops 2025",
+    "Event Date": "5/31/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Interdisciplinary Conference o...",
+    "Event Date": "5/30/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Tokyo 20...",
+    "Event Date": "5/30/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Hardwear.io USA 2025",
+    "Event Date": "5/30/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Medellin...",
+    "Event Date": "5/29/2025",
+    "Event Type": "Conference",
+    "Country": "Colombia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TECHSPO Twin Cities 2025",
+    "Event Date": "5/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS Minneapolis Forum 2025",
+    "Event Date": "5/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Events 4 Sure 2025: Global GRC...",
+    "Event Date": "5/28/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Amsterdam 2025",
+    "Event Date": "5/28/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CISO New York 2025",
+    "Event Date": "5/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Rocky Mountain Information Sec...",
+    "Event Date": "5/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Utrecht ...",
+    "Event Date": "5/27/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Bogota 2...",
+    "Event Date": "5/27/2025",
+    "Event Type": "Conference",
+    "Country": "Colombia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Qubit Conference Prague 2025",
+    "Event Date": "5/27/2025",
+    "Event Type": "Conference",
+    "Country": "Czech Republic",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "AKJ Associates: e-Crime & Cybe...",
+    "Event Date": "5/27/2025",
+    "Event Type": "Conference",
+    "Country": "France",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CDAO Indonesia 2025",
+    "Event Date": "5/27/2025",
+    "Event Type": "Conference",
+    "Country": "Indonesia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "IT Attacks Denmark 2025",
+    "Event Date": "5/27/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TyphoonCon 2025",
+    "Event Date": "5/26/2025",
+    "Event Type": "Conference",
+    "Country": "South Korea",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "LayerOne Information Security ...",
+    "Event Date": "5/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "LayerOne 2025 Information Secu...",
+    "Event Date": "5/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "OSINTCon 2025",
+    "Event Date": "5/23/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "Hungary",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Detect & Defend 2025 Dortmund",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "TECHSPO Detroit 2025",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Prague 2025",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "Czech Republic",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Transform Finance: FinCrime Le...",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "INTERFACE Honolulu 2025",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "5/22/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CrowdTour Dallas 2025",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Events 4 Sure 2025: Global GRC...",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "AKJ Associates: Securing Healt...",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Budapest 2025",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "Hungary",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Vilnius 2025",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "Lithuania",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SecureWorld: Chicago 2025",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IT Security Camp Mai 2025",
+    "Event Date": "5/21/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "HackInBo® Training",
+    "Event Date": "5/21/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Business Process Management (B...",
+    "Event Date": "5/20/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IDC CIO Summit: Czech Republic...",
+    "Event Date": "5/20/2025",
+    "Event Type": "Conference",
+    "Country": "Czech Republic",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "DevOpsDays: Baltimore 2025",
+    "Event Date": "5/20/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Transformational CISO Assembly...",
+    "Event Date": "5/20/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CYBERWISECON EUROPE 2025",
+    "Event Date": "5/20/2025",
+    "Event Type": "Conference",
+    "Country": "Lithuania",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IANS Toronto Forum 2025",
+    "Event Date": "5/20/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "MLcon San Diego 2025",
+    "Event Date": "5/19/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "NDC Security: Oslo 2025",
+    "Event Date": "5/19/2025",
+    "Event Type": "Conference",
+    "Country": "Norway",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TECHSPO Nashville 2025",
+    "Event Date": "5/19/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Geneva 2025",
+    "Event Date": "5/19/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner Supply Chain Symposium...",
+    "Event Date": "5/19/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "You Sh0t the Sheriff (YSTS) 20...",
+    "Event Date": "5/19/2025",
+    "Event Type": "Conference",
+    "Country": "Brazil",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "IRMS Conference 2025",
+    "Event Date": "5/18/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Tampa 2025",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "International Conference on Ad...",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "11th International Conference ...",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "International Conference on So...",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Ne...",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Cl...",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Hackmiami XII",
+    "Event Date": "5/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "AI Rush 2025",
+    "Event Date": "5/16/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CackalackyCon 2025",
+    "Event Date": "5/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "NolaCon 2025",
+    "Event Date": "5/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ESCON 2025",
+    "Event Date": "5/16/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Adapt in Action: London 2025",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Austria",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Buenos A...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Argentina",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Group Futurista: Future of Cha...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Boston 2...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Helsinki 2025",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Finland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Detect & Defend 2025 FFB",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Official Cybersecurity Sum...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "CIOMeet 2025: San Francisco",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Security Summit: Dallas 2...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Helsinki 2025",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Finland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SecureWorld: Houston 2025",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Executive Partners Network: In...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Executive Partners Network: Cy...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Next IT Security Benelux: May ...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Heliview Identity and Access M...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "5/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Zurich 2025",
+    "Event Date": "5/14/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Civo Navigate Austin 2025",
+    "Event Date": "5/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Singapore 2025",
+    "Event Date": "5/14/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Civo Navigate Austin",
+    "Event Date": "5/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Zurich 2025",
+    "Event Date": "5/14/2025",
+    "Event Type": "Conference",
+    "Country": "Switzerland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Cloud Foundry Day North Americ...",
+    "Event Date": "5/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "Poland",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Lima 202...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "Peru",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "Jack Henry Cybersecurity & Fra...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Dubai 2025",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ItaliaSec 2025",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Transformational CISO Assembly...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "The Network Group: FS Informat...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Cybersecurity & Ransomware Liv...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Gartner IT Infrastructure, Ope...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Bank IT Canada 2025",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Mindfluence: CISO/Executive Le...",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IANS 2025 Dallas Forum",
+    "Event Date": "5/13/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: Cost Estimating F...",
+    "Event Date": "5/12/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Business Process Management (B...",
+    "Event Date": "5/12/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "TECHSPO Chicago 2025",
+    "Event Date": "5/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Salt Lake City 202...",
+    "Event Date": "5/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Adelaide 2025",
+    "Event Date": "5/12/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "IMF Academy CISM (Certified In...",
+    "Event Date": "5/12/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "MLCon London 2025",
+    "Event Date": "5/12/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Hack Space Con 2025",
+    "Event Date": "5/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Detroit 2025",
+    "Event Date": "5/10/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Red Hot Cyber Conference 2025",
+    "Event Date": "5/9/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CrowdTour Toronto 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "TECHSPO San Diego 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: Machine Learning 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Ignite on Tour: Lisbon 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Portugal",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Detect & Defend 2025 FFM",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Montreal",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SEKOP2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Atlanta",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Denver 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Vienna 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "Portugal",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Transform Finance: FinCrime Le...",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SecureWorld: Kansas City 2025",
+    "Event Date": "5/8/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Events 4 Sure 2025: Global GRC...",
+    "Event Date": "5/7/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Atlanta ...",
+    "Event Date": "5/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Chief AI Officer Summit: Dubai...",
+    "Event Date": "5/7/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Corinium: CDAO Sydney 2025",
+    "Event Date": "5/7/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Secure Miami 2025",
+    "Event Date": "5/7/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Reuters Events: The Future of ...",
+    "Event Date": "5/7/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "5/6/2025",
+    "Event Type": "Conference",
+    "Country": "Czech Republic",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Munich 2...",
+    "Event Date": "5/6/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Dallas",
+    "Event Date": "5/6/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "GISEC Global 2025",
+    "Event Date": "5/6/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner CIO Leadership Forum: ...",
+    "Event Date": "5/6/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CrowdTour Philadelphia 2025",
+    "Event Date": "5/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Computerworld Cyber ​​Brie...",
+    "Event Date": "5/5/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Gartner Supply Chain Symposium...",
+    "Event Date": "5/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Tech Talk Live 2025",
+    "Event Date": "5/5/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Calgary 2025",
+    "Event Date": "5/1/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Austin 2025",
+    "Event Date": "5/1/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SecureWorld: Healthcare Virtua...",
+    "Event Date": "5/1/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "AKJ Associates: e-Crime & Cybe...",
+    "Event Date": "4/30/2025",
+    "Event Type": "Conference",
+    "Country": "Austria",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "HMG Strategy: Annual New Jerse...",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "NDC Security: Melbourne 2025",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Reuters Events: Customer Servi...",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Chief AI Officer Summit: Santa...",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Atlanta 2025",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Aarhus 2025",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Generative AI Summit: Santa Cl...",
+    "Event Date": "4/29/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Unchained Summit 2025",
+    "Event Date": "4/28/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Fortify Nigeria 2025",
+    "Event Date": "4/28/2025",
+    "Event Type": "Conference",
+    "Country": "Nigeria",
+    "Region": "Africa"
+  },
+  {
+    "Event Name": "USENIX Symposium on Networked ...",
+    "Event Date": "4/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Hack The Bay 2025",
+    "Event Date": "4/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IMF Academy: CISSP Certificati...",
+    "Event Date": "4/28/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The Cyber Soirée 2025",
+    "Event Date": "4/28/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "International Conference on So...",
+    "Event Date": "4/27/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "International Conference on In...",
+    "Event Date": "4/27/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "StarEast 2025",
+    "Event Date": "4/27/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "International Conference on Ar...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Si...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Hinweis Hybrid Mode Internatio...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "International Conference on Da...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Cr...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Cy...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Bi...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Cr...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "International Conference on Co...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Na...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on So...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Ar...",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "Denmark",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides San Francisco 2025",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Hack Glasgow 2025",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Hack Glasgow 2025",
+    "Event Date": "4/26/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Kansas City 2025",
+    "Event Date": "4/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Brandeis Global Cyber Security...",
+    "Event Date": "4/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Northeast Regional 3CS (NE-3CS...",
+    "Event Date": "4/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Harrisburg 2025",
+    "Event Date": "4/25/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "IDC Security Summit: Korea 202...",
+    "Event Date": "4/25/2025",
+    "Event Type": "Conference",
+    "Country": "South Korea",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CISO India Connect & Awards 20...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Ignite on Tour: Wien 2025",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "Austria",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CISO India Connect: New Delhi ...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Phoenix",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "SANS Cybersecurity Leadership ...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "National Conference on CFIUS 2...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Cyber Security Expo: Bristol 2...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Security Cleared Expo: Bristol...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Atlanta Technology Summit 2025",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Toronto 2025",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Ignite on Tour: Vienna 2025",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "Austria",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "13th International Symposium o...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "FutureCon CyberSecurity Confer...",
+    "Event Date": "4/24/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Netskope SASE Summit: Lisbon 2...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Portugal",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "IANS: CISO Roundtable Charlott...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Jack Henry Cybersecurity & Fra...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "UK Cyber Week 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Navigating a Digitalised Busin...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "IAPP Global Privacy Summit 202...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "UK Cyber Week 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Japan IT Week Spring 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Computer Science On-line Confe...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Czech Republic",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "GCSI Annual Conference 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Hardware Pioneers Max 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "GITEX Asia 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Cybersecurity Summit: Bengalur...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Corinium: CDAO Singapore 2025",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Cyber Intelligence Europe 2025...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Spain",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Heliview Cyber Resilience Conf...",
+    "Event Date": "4/23/2025",
+    "Event Type": "Conference",
+    "Country": "Belgium",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Events 4 Sure 2025: Global GRC...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "NAVITECH 2025",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "Russia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Workshop of Data...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "Greece",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference on Am...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "Greece",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Cybersecurity Identity Summit ...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "OptivCon SoCal 2025",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Money20/20 Asia 2025",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "Thailand",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Corinium: CISO FSI Singapore 2...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Are Your Credentials Compromis...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Cybersecurity Fundamentals tra...",
+    "Event Date": "4/22/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Thomvell International: Cyber ...",
+    "Event Date": "4/21/2025",
+    "Event Type": "Conference",
+    "Country": "Malaysia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "New York Fintech Week 2025",
+    "Event Date": "4/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Global Security Symposium: Qat...",
+    "Event Date": "4/21/2025",
+    "Event Type": "Conference",
+    "Country": "Qatar",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Global Security Symposium: Pak...",
+    "Event Date": "4/21/2025",
+    "Event Type": "Conference",
+    "Country": "Pakistan",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Houston Black Tech Symposium 2...",
+    "Event Date": "4/21/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Cyber Threat Intelligence Conf...",
+    "Event Date": "4/21/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "International Conference of Ad...",
+    "Event Date": "4/19/2025",
+    "Event Type": "Conference",
+    "Country": "Australia",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "HackOline International Securi...",
+    "Event Date": "4/19/2025",
+    "Event Type": "Conference",
+    "Country": "India",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "World Conference on Cyber Secu...",
+    "Event Date": "4/18/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "BSides Seattle 2025",
+    "Event Date": "4/18/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit April ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Data Connectors Cybersecurity ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Conf42: Site Reliability Engin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Global Security Symposium: KSA...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "Saudi Arabia",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "The AI Edge: Transforming Cybe...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Protect Your Data from Insider...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "The state of ransomware",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "The Privacy Playbooks You Need...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Global AI Compliance: Insights...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Data Security Strategies for a...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Navigating the AI Data Securit...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "How to Stay Protected From Adv...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Trellix Spotlight Series: Data...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Enhancing Cyber Resilience: Li...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Safeguarding Patient Data with...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Quick Start: Setting Up Your T...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Navigating Healthcare DSPM Cha...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Sophos Endpoint Best Practice",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Cyber Threats on the Rise: Pro...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Weaponizing Gen AI: How ChatGP...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Exact Data Match - The Silver ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Extension Vulnerabilities Insi...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Securing Data Everywhere and A...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Securing Embedded AI: Accelera...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Winning the Fight Against Evol...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Securing Your Business from Wi...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Investor Trends: Cybersecurity...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "92% Under Threat: Securing Hea...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "DeepSeek and Beyond: Fortifyin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Protecting Healthcare Data in ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Flow Control Group’s Secret ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Top Cybercrime Catastrophes: A...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Operational resilience in a ch...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Data-first cloud security: How...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Protect Your Email From Sensit...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Secure SaaS Adoption for Feder...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Incydr Product Roadmap: Contin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "The Cloud Chaos Caper: Reining...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Rubrik + Pure Storage: The Mat...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Data Protection as a Business ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "How to Future-proof Your Secur...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Enterprise Browsers - Creating...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Fortifying the Organization Ag...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Awareness Training is Dead. Le...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Accelerate Snowflake Data Acce...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "The Expert Talk – The findin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Unlocking Access: 5 Key Reason...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "I’m Under Attack! A Real-Tim...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Cyber Resilience 2025: Battlin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Detect and Respond to Data Ris...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Flow Security | Webinar: Navig...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Crack the Code: Safeguarding A...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "SecureWorld: South Florida 202...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Security & Privacy Challe...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Beyond the Noise: ESET’s Cur...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "How Endpoint OCR is Transformi...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Microsoft + Egress: Replacing ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Top Insider Threat Investigati...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Get Ahead of Microsoft 365 Unl...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Unlocking Secure Access: Integ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "How to Shift Your Network Secu...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Opening the AI Black Box: Best...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Demystifying DLP: The Blueprin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Mythbusting: Only Big Companie...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Modern Data Security Governanc...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Defending Against the AI Phish...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Building a Unified Human Risk ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Simplifying security and compl...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Navigating Privacy in AI: Insi...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Microsoft Copilot Readiness: H...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Wiz Defend: The future of clou...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Securing Non-human Identities ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Protect, comply, innovate: you...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "OWASP Kubernetes Top 10 Projec...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Believe It or Not: One-Click L...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Automating DISA STIG Complianc...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Stories from the SOC: Closing ...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Secure Your AI-Powered Apps: I...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Unlocking the Future: Masterin...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Webinar: The ultimate CISO's g...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Evolution of Cyber Insurance a...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Stop Modern Cyber Attacks with...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "AWS Zero Trust Policy: Open So...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Maximizing Security Efficiency...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Webinar",
+    "Country": "United States",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Boston Security April 2025 Mee...",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "INTERFACE Anchorage 2025",
+    "Event Date": "4/17/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Adapt in Action: Atlanta 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Science Salon: Seattle 20...",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Lancashire 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "United Kingdom",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "AWS Summit: Amsterdam 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ICT Security Magazine: Cyber C...",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Milan 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "Italy",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Atlanta 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Darktrace LIVE: Socal 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Cyber Security for Critical As...",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "Singapore",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "DevOpsDays: Raleigh 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "From silos to synergy: How tec...",
+    "Event Date": "4/16/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "Corinium: CDAO Germany 2025",
+    "Event Date": "4/16/2025",
+    "Event Type": "Conference",
+    "Country": "Germany",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ERTL-YANG Leader Summit 2025: ...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "CrowdTour Atlanta 2025",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "World Conference on Informatio...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Brazil",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "Preventing Scams and Money Mul...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Webinar",
+    "Country": "",
+    "Region": "Online"
+  },
+  {
+    "Event Name": "ICT.OPEN 2025",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "World Financial Innovation Ser...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Vietnam",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "Global Security Symposium: UAE...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "HMG Strategy: Annual Washingto...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "World Summit AI: Americas 2025",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Canada",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Quantum.Tech 2025",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "ENBANTEC Cyber Security Confer...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Turkey",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "NexTech Week Tokyo [Spring] 20...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "CIOMeet 2025: Minneapolis",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "DevOpsDays: Tokyo 2025",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "IDC Security Summit: Japan 202...",
+    "Event Date": "4/15/2025",
+    "Event Type": "Conference",
+    "Country": "Japan",
+    "Region": "APAC"
+  },
+  {
+    "Event Name": "SREday: Redmond 2025",
+    "Event Date": "4/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Data Center World 2025",
+    "Event Date": "4/14/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Certified Cloud Security Profe...",
+    "Event Date": "4/14/2025",
+    "Event Type": "Training",
+    "Country": "Netherlands",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SANS Orlando 2025",
+    "Event Date": "4/13/2025",
+    "Event Type": "Training",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Charm 2025",
+    "Event Date": "4/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "Sp4rkCon 2025",
+    "Event Date": "4/12/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "BSides Prishtina 2025",
+    "Event Date": "4/12/2025",
+    "Event Type": "Conference",
+    "Country": "Kosovo",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "Alcatraz Security: Attack & De...",
+    "Event Date": "4/11/2025",
+    "Event Type": "Conference",
+    "Country": "Brazil",
+    "Region": "LATAM"
+  },
+  {
+    "Event Name": "AI for Sustainable Business: B...",
+    "Event Date": "4/11/2025",
+    "Event Type": "Conference",
+    "Country": "United Arab Emirates",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "SREday: San Francisco 2025",
+    "Event Date": "4/11/2025",
+    "Event Type": "Conference",
+    "Country": "United States",
+    "Region": "North America"
+  },
+  {
+    "Event Name": "UmeDev 2025",
+    "Event Date": "4/11/2025",
+    "Event Type": "Conference",
+    "Country": "Sweden",
+    "Region": "EMEA"
+  },
+  {
+    "Event Name": "ISACA Ireland Chapter Conferen...",
+    "Event Date": "4/11/2025",
+    "Event Type": "Conference",
+    "Country": "Ireland",
+    "Region": "EMEA"
+  }
+]

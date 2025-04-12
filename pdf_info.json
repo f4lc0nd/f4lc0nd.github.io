@@ -1,0 +1,106 @@
+[
+  {
+    "title": "HACKING EXPOSED LINUX: LINUX SECURITY SECRETS & SOLUTIONS THIRD EDITION",
+    "url": "https://www.mediafire.com/file/f2n152wqb8yhcj0/McGraw_Hill_Gray_Hat_Hacking_4th_Edition_Jan_2015_ISBN_0071832386.pdf/file",
+    "category": "Linux, Security",
+    "size": 10989983,
+    "author": "The McGraw-Hill Companies",
+    "description": "This book is meant to be practical; you won’t just learn how to run an exploit or two that will be patched by the time you finish reading about it. The knowledge and the tools to do all the hacking is in the book; however, instead of specific exploits, we cover types of threats. This way even if an exploit is patched, the knowledge as to how the exploit could work, how a security control can be circumvented, and how an interaction such as trust can be abused will still help you analyze potential problems. By not securing against specific threats or exploits, you are much more capable of testing for and applying security that will cover potential, though yet unknown, threats. Structurally, this book follows the five channels identified in the Open Source Security Testing Methodology Manual (OSSTMM) for security interactions: physical, tele-communications, data networking, human, and wireless. The first three chapters explain how security and controls work according to the latest ISECOM research and set the stage for understanding how to analyze security. Then the book follows the logical separation of the most common uses of Linux to create a compendium of security knowledge—no matter what you want to do with your Linux system. It is possible to read the book straight through and absorb all the information like a sponge if you can. Or you can hop from chapter to chapter depending on what areas you are concerned about securing on your specific Linux system. Maybe you want to try testing wireless access points, VoIP, or telecommunications? Just jump to the appropriate chapter. Or even if you simply want to make sure your desktop applications don’t get the best of your Linux system through phishing, SPAM, and rootkits, we cover user attacks as part of the human security channel. Then, again, you could always just browse through the book at your leisure."
+  },
+  {
+    "title": "Cyber security prcaticle training",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/cyber security prcaticle training.pdf",
+    "category": "Cyber Security",
+    "size": 1060026,
+    "author": "1:M Cyber Security LLC",
+    "description": "PRACTICAL TRAINING GUIDE To Protect Your Self And Avoiding Different Attacks"
+  },
+  {
+    "title": "Pen Testing Active Directory Environments",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/Active Directory Penetration.pdf",
+    "category": "Active Directory, Pentesting, PowerShell",
+    "size": 3191125,
+    "author": "VARONIS",
+    "description": "I was talking to a pen testing company recently at a data security conference to learn more about “day in the life” aspects of their trade. Their president told me that one of their initial obstacles in getting an engagement is fear from IT that the pen testers will bring down the system. Some of the most interesting pen testing can be accomplished by passively gathering information. I’ve already covered some of these ideas in my “pen testing explained” series, where I showed that the more you know about your environment — IP addresses, computer names, users and especially admin accounts, as well as where sensitive content is likely to reside — the better position you’re in as a hacker to get the goodies and do real damage to the victim. Hackers have known for a long time that Active Directory is a very rich source of this kind of incidental information – really metadata – that can be used to accelerate the post-exploitation process. The origin of this ebook comes out of my own experiences exploring and blogging about the detailed data on users, groups, and other system information held within Active Directory. In this ebook, we’ll learn more about PowerView, which is part of the PowerShell Empire, a post-exploitation environment. PowerView essentially gives you easy access to AD information, wrapping the raw API calls into a more useful set of PowerShell cmldlets. Active Directory information is also about connections, so it makes sense to understand some graph theory to get the most out of the Active Directory data. We’ll be looking into basic graph ideas as well. In writing this ebook, I’m very aware that I’m standing on the shoulders of giants. This includes Will Schroeder and Justin Warner, who co-founded the PowerShell Empire project, as well as Andy Robbins."
+  },
+  {
+    "title": "Artificial Intelligence and Cybersecurity",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/AI in Cybersecurity.pdf",
+    "category": "AI, Cybersecurity",
+    "size": 3118263,
+    "author": "CEPS Task Force Report",
+    "description": "This report is based on discussions in CEPS’ Task Force on Artificial Intelligence and Cybersecurity. The Task Force was composed of industry experts, representatives of EU and international institutions, academics, civil society organisations and practitioners (see list of participants in Annex II). The activity of the group started in autumn 2019, met on four separate occasions and continued online during the Covid-19 breakout, until March 2021. As Coordinator of the Task Force, I would like to acknowledge the invaluable contributions of all the participants in this work. Particular thanks go to the members of the Advisory Board: Joanna Bryson at the Hertie School for Governance, Berlin, Mariarosaria Taddeo at the University of Oxford, Jean-Marc Rickli at the Geneva Centre for Security Policy and Marc Ph. Stoecklin at IBM Research Center, Zurich. I also wish to acknowledge the substantial work done by my fellow rapporteurs, Stefano Fantin, Afonso Ferreira and Carolina Polito. This work has been a collective endeavour and, as indicated in the text itself, other Task Force participants or members of the advisory board directly contributed their expertise by personally drafting selected sections of the report, namely Joanna Bryson, Mariarosaria Taddeo, Jean-Marc Rickli, David Clark, Rob Spiger, Chris Hutchins, Matt Walmsley, Sebastian Gerlach, and Matti Aksela. I am also grateful to members who kindly volunteered to review earlier versions of this report, especially Marc Radice, Carol Mezat, Alex Sangers, Rachel Azafrani, Philip Graefen, Giuseppe Giovanni Daquino, Federica Russo, Nineta Polemi, Wide Hogenhout and Miguel Gonzales- Sancho-Bodero. Thanks also go to the invited speakers who contributed to the Task Force discussions."
+  },
+  {
+    "title": "AV/EDR Bypass Techniques for new Hackers",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/AC DER BY PASS TECH.HACKERS.pdf",
+    "category": "AD Obfuscation",
+    "size": 1148362,
+    "author": "Joas Antonio (C0d3Cr4zy)",
+    "description": "Endpoint detection and response technology is used to protect endpoints, which are computer hardware devices, from threat. Creators of the EDR technology based platforms deploy tools to gather data from endpoint devices, and then analyze the data to reveal potential cyber threats and issues. It is a protection against hacking attempts and theft of user data. The software is installed on the end-user device and it is continually monitored. The data is stored in a centralized database. In an incident when a threat is found, the end-user is immediately prompted with preventive list of actions;"
+  },
+  {
+    "title": "Attacks on TCP",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/Attacks on TCP.pdf",
+    "category": "Networking",
+    "size": 1590033,
+    "author": "Unknown",
+    "description": "No description found"
+  },
+  {
+    "title": "Best Practices for MITRE ATT&CK® Mapping",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/MITRE ATTACKS.pdf",
+    "category": "Phishing, Network",
+    "size": 1597625,
+    "author": "TLP:WHITE",
+    "description": "For the Cybersecurity and Infrastructure Security Agency (CISA), understanding adversary behavior is often the first step in protecting networks and data. The success network defenders have in detecting and mitigating cyberattacks depends on this understanding. The MITRE ATT&CK® framework is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations. ATT&CK provides details on 100+ threat actor groups, including the techniques and software they are known to use. 1 ATT&CK can be used to identify defensive gaps, assess security tool capabilities, organize detections, hunt for threats, engage in red team activities, or validate mitigation controls. CISA uses ATT&CK as a lens through which to identify and analyze adversary behavior. CISA created this guide with the Homeland Security Systems Engineering and Development InstituteTM (HSSEDI), a DHS-owned federally funded research and development center (FFRDC), which worked with the MITRE ATT&CK team."
+  },
+  {
+    "title": "How To Start Bug Bounty ?",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/Big bounty.pdf",
+    "category": "Bug Bounty, Cybersecurity",
+    "size": 972045,
+    "author": "#Digitokawn",
+    "description": "DON'T START BUG BOUNTY BECAUSE YOU FEEL LIKE IT'S EASY MONEY. THERE IS TOO MUCH HARD WORK AND CONTINUOUS LEARNING THAT MOST PEOPLE CANNOT SEE. Do bug bounty only if it entertains you and you're passionate about it. Otherwise the only thing you'd earn is disappointment"
+  },
+  {
+    "title": "Blue Team cheat Sheet",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/Blue Team cheat Sheet.pdf",
+    "category": "Blue Team",
+    "size": 14284168,
+    "author": "Chris Davis",
+    "description": "List of cheat sheets from other sources. As such, you will find reference to many different individuals or organizations that created these cheat sheets. I take no credit for any of their creations save for one or two that I did create. As such, the Blue Team Cheat Sheet book is completely free and open for use for anyone to have or edit. I merely brought them all together into one source."
+  },
+  {
+    "title": "CHFIv9 STUDY GUIDE_NEW",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/CHFIv9 STUDY GUIDE_NEW.pdf",
+    "category": "Computer Forensics, Investigations",
+    "size": 1008310,
+    "author": "Robert Weber",
+    "description": "A forensic examiner must keep in mind certain rules to follow during a computer forensic examination, as well as to handle and analyze the evidence. This will safeguard the integrity of the evidence and render it acceptable in a court of law. The forensic examiner must make duplicate copies of the original evidence and start by examining only the duplicates. The duplicate copies must be accurate replications of the originals, and the forensic examiner must also authenticate the duplicate copies to avoid questions about the integrity of the evidence. The computer forensic examiner must not continue with the investigation if the examination is going to be beyond his or her knowledge level or skill level."
+  },
+  {
+    "title": "CISSP For Dummies, 4th Edition",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/CISSP_For_Dummies-4E.pdf",
+    "category": "Security, Vulnerabilities",
+    "size": 28411499,
+    "author": "Lawrence Miller and Peter H. Gregory",
+    "description": "Our goal in this book is simple: to help you prepare for and pass the CISSP examination so that you can join the ranks of respected certified security professionals who dutifully serve organizations and industries around the world. Although we’ve stuffed it chock-full of good information, we don’t expect that this book will be a weighty desktop reference on the shelf of every security professional — although we certainly wouldn’t object. And we don’t intend for this book to be an all-purpose, be-all-and-end-all, one- stop shop that has all the answers to life’s great mysteries. Given the broad base of knowledge required for the CISSP certification, we strongly recommend that you use multiple resources to prepare for the exam. This book can pro- vide you with a road map to the CISSP certification and sufficient information to help you pass the exam. But it won’t make you an instant security expert! As a security professional, you may find that earning the CISSP certification is only a beginning. Business and technology, which have associated risks and vulnerabilities, require that each of us — as security professionals — constantly press forward, consuming vast volumes of knowledge and information in a con- stant tug-of-war against the bad guys. Thus, when you prepare for your CISSP certification, study as much relevant information as your time and resources allow. CISSP For Dummies, 4th Edition, provides the framework and the blueprint for your study e"
+  },
+  {
+    "title": "Coding for Penetration Testers: Building Better Tools",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/Coding_for_Penetration_Testers_Building_Better_Tools_Jason_Andress.pdf",
+    "category": "Coding, Pentesting, Tools",
+    "size": 10357949,
+    "author": "Jason Andress & Ryan Linn",
+    "description": "What sets a good penetration tester apart from an average one is the ability to adapt to the ever-changing landscape within which we live. One aspect of this adaptability is the skill to build, extend, and manipulate scripts and applications encountered in the field. Whether tools already exist to accomplish a task, or one needs to be built to take advantage of a new vulnerability, the ability to build and extend tools in a variety of scripting languages is important. Each of the first five chapters of this resource delves into a different scripting language that we may encounter while performing penetration tests. Through investigating the core aspects of each language, either on Microsoft platforms, or on Linux platforms such as BackTrack 5, each chapter brings to light the power and strengths of each language. We will use these strengths to build a series of scripts to help us understand the intricacies of each language, and in most cases develop a basic tool that we can use and extend while penetration testing. Whether it is through shell scripting, Python, Perl, Ruby, or PHP, we will cover the basics of each language and discuss topics such as output handling, loops and control statements, networking, and command execution. Once the core language concepts have been covered, Coding for Penetration Testers tackles the core tasks of penetration testing. While covering scanner scripting and information gathering, we will discuss tools such as Nmap and Nessus and use the scripting languages behind them to extend the capabilities of both tools. Information gathering is one of the first and most important steps of a penetration test. We don’t know what we’re attacking until we do the initial research. Chapter 8 investigates how to automate information gathering tasks to be more effective and to have repeatable results. Once we’ve gathered the information, we’re ready to begin the offensive. Through looking at Python as an exploit delivery tool, we will discuss the basics of exploit development. Walking through building a working exploit, Chapter 9 takes us through each step of the process, from creating a Proof of Concept (POC) to creating a repeatable and extendable exploit within the Metasploit Framework."
+  },
+  {
+    "title": "Common Sense Guide to Mitigating Insider Threats, v7",
+    "url": "https://github.com/f4lc0nd/cybooks/blob/main/Common Sense Guide to Mitigating Insider Threats, v7.pdf",
+    "category": "Security, Vulnerabilities",
+    "size": 10579925,
+    "author": "Carnegie Mellon University.",
+    "description": "his guide serves as a resource for stakeholders building or maturing IRMPs. Decision makers across the organization benefit from reading it because insider threats are influenced by a combination of technical, behavioral, and organizational issues that must be addressed by policies, procedures, and technologies. An organization’s cross-departmental workforce members who are involved in Management, Human Resources, Legal Counsel, Physical Security, Information Technology, Information Security, Data Owners, and Software Engineers should appreciate the scope and complexity of insider risk management. This guide identifies the organization’s groups that have a role in implementing each practice so group members can quickly access relevant recommendations."
+  }
+]

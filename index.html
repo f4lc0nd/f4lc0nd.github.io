@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Resources Dataset</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <style>
+        .json-card {
+            margin-bottom: 1.5rem;
+            transition: transform 0.2s;
+        }
+        .json-card:hover {
+            transform: translateY(-5px);
+        }
+        .pre-header {
+            background-color: #363636;
+            color: #fff;
+            padding: 1rem;
+            border-radius: 4px 4px 0 0;
+            font-family: monospace;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero is-dark">
+        <div class="hero-body">
+            <div class="container">
+                <h1 class="title">Security Resources Dataset</h1>
+                <h2 class="subtitle">
+                    A collection of structured security-related information
+                </h2>
+            </div>
+        </div>
+    </section>
+
+    <section class="section">
+        <div class="container">
+            <div class="content">
+                <h3 class="title is-4">About this Project</h3>
+                <p>
+                    This repository contains structured datasets related to cybersecurity resources, 
+                    including tools, write-ups, events, and more. The JSON files are maintained to 
+                    provide machine-readable information for developers and security researchers.
+                </p>
+                
+                <h4 class="title is-5 mt-5">Available Datasets</h4>
+                <div class="columns is-multiline">
+                    <!-- JSON File Cards -->
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">events.json</div>
+                            <div class="card-content">
+                                <p>Security conferences, workshops, and community events</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">oneliner.json</div>
+                            <div class="card-content">
+                                <p>Useful command-line snippets for security tasks</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">pdf_info.json</div>
+                            <div class="card-content">
+                                <p>Security-related PDF documents and research papers</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Add remaining JSON files -->
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">security_tools.json</div>
+                            <div class="card-content">
+                                <p>Curated list of security tools and utilities</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">terminal-apps.json</div>
+                            <div class="card-content">
+                                <p>Command-line applications for security professionals</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">tools.json</div>
+                            <div class="card-content">
+                                <p>General security tools and resources</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="column is-4">
+                        <div class="json-card card">
+                            <div class="pre-header">write-ups.json</div>
+                            <div class="card-content">
+                                <p>Collection of security write-ups and CTF solutions</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <h4 class="title is-5">Usage Example</h4>
+                <pre><code>// Fetch security tools data
+fetch('https://your-username.github.io/repo-name/security_tools.json')
+  .then(response => response.json())
+  .then(data => console.log(data));</code></pre>
+
+                <h4 class="title is-5">Contributing</h4>
+                <p>
+                    Contributions are welcome! Please submit pull requests for additions 
+                    or corrections following the existing JSON structure.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="content has-text-centered">
+            <p>
+                <strong>Security Resources Dataset</strong> maintained by [Your Name].<br>
+                The data is provided "as is" without warranty of any kind.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

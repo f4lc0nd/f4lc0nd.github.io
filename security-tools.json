@@ -1,0 +1,901 @@
+{
+  "tools": [
+    {
+      "id": "amass",
+      "name": "Amass",
+      "description": "In-depth DNS enumeration and network mapping tool",
+      "category": "reconnaissance",
+      "command": "amass enum -d {domain}",
+      "url": "https://github.com/OWASP/Amass",
+      "documentation": "https://github.com/OWASP/Amass/blob/master/doc/user_guide.md",
+      "tags": [
+        "dns",
+        "enumeration",
+        "mapping"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "aquatone",
+      "name": "Aquatone",
+      "description": "Tool for visual inspection of websites across many hosts",
+      "category": "reconnaissance",
+      "command": "aquatone -scan -ports large -targets domains.txt",
+      "url": "https://github.com/michenriksen/aquatone",
+      "documentation": "https://github.com/michenriksen/aquatone/wiki",
+      "tags": [
+        "web",
+        "visualization",
+        "recon"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "argus",
+      "name": "Argus",
+      "description": "Argus developed by jasonxtn, is an all-in-one, Python-powered toolkit designed to streamline the process of information gathering and reconnaissance. With a user-friendly interface and a suite of powerful modules, Argus empowers you to explore networks, web applications, and security configurations efficiently and effectively.",
+      "category": "reconnaissance",
+      "command": "python argus.py",
+      "url": "https://github.com/jasonxtn/Argus",
+      "documentation": "https://github.com/jasonxtn/Argus",
+      "tags": [
+        "information gathering",
+        "recon"
+      ],
+      "difficulty": "advanced",
+      "platform": [
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "id": "arjun",
+      "name": "Arjun",
+      "description": "HTTP parameter discovery suite.",
+      "category": "content-discovery",
+      "command": "arjun -u https://api.example.com/endpoint",
+      "url": "https://github.com/s0md3v/Arjun",
+      "documentation": "https://github.com/s0md3v/Arjun#",
+      "tags": [
+        "http parametrs",
+        "scanner",
+        "reconnaissance"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    
+    {
+      "id": "bbot",
+      "name": "bbot",
+      "description": "The recursive internet scanner for hackers. 🧡",
+      "category": "reconnaissance",
+      "command": "bbot -t evilcorp.com -p subdomain-enum",
+      "url": "https://github.com/blacklanternsecurity/bbot",
+      "documentation": "https://github.com/blacklanternsecurity/bbot",
+      "tags": [
+        "dns",
+        "enumeration"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "burpsuite",
+      "name": "Burp Suite",
+      "description": "Web application security testing tool",
+      "category": "web-scanning",
+      "command": "N/A (GUI-based tool)",
+      "url": "https://portswigger.net/burp",
+      "documentation": "https://portswigger.net/burp/documentation",
+      "tags": [
+        "web",
+        "proxy",
+        "vulnerability-scanning"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "cariddi",
+      "name": "cariddi",
+      "description": "Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more",
+      "category": "content-discovery",
+      "command": "cat urls | cariddi -s",
+      "url": "https://github.com/edoardottt/cariddi",
+      "documentation": "https://github.com/edoardottt/cariddi",
+      "tags": [
+        "crawler"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "mac",
+        "windows",
+        "linux"
+      ]
+    },
+    {
+      "id": "crackmapexec",
+      "name": "CrackMapExec",
+      "description": "Swiss army knife for pentesting networks",
+      "category": "network-exploitation",
+      "command": "crackmapexec smb {target} -u {user} -p {password}",
+      "url": "https://github.com/byt3bl33d3r/CrackMapExec",
+      "documentation": "https://github.com/byt3bl33d3r/CrackMapExec/wiki",
+      "tags": [
+        "network",
+        "exploitation",
+        "pentesting"
+      ],
+      "difficulty": "advanced",
+      "platform": [
+        "linux",
+        "mac"
+      ]
+    },
+    {
+      "id": "dirsearch",
+      "name": "Dirsearch",
+      "description": "Web path scanner designed to brute force directories and files",
+      "category": "web-scanning",
+      "command": "dirsearch -u {url} -e *",
+      "url": "https://github.com/maurosoria/dirsearch",
+      "documentation": "https://github.com/maurosoria/dirsearch/wiki",
+      "tags": [
+        "web",
+        "directory",
+        "brute-force"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "dracnmap",
+      "name": "Dracnmap",
+      "description": "Dracnmap is an open source program which is using to exploit the network and gathering information with nmap help. Nmap command comes with lots of options that can make the utility more robust and difficult to follow for new users. Hence Dracnmap is designed to perform fast scaning with the utilizing script engine of nmap and nmap can perform various automatic scanning techniques with the advanced commands.",
+      "category": "reconnaissance",
+      "command": "bash dracnmap.sh",
+      "url": "https://github.com/screetsec/Dracnmap",
+      "documentation": "https://github.com/screetsec/Dracnmap#drcacnmap",
+      "tags": [
+        "scanner",
+        "port scanning"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "enum4linux",
+      "name": "Enum4linux",
+      "description": "Tool for enumerating information from Windows and Samba systems",
+      "category": "enumeration",
+      "command": "enum4linux -a {target}",
+      "url": "https://github.com/portcullislabs/enum4linux",
+      "documentation": "https://labs.portcullis.co.uk/tools/enum4linux/",
+      "tags": [
+        "windows",
+        "samba",
+        "enumeration"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux"
+      ]
+    },
+    {
+      "id": "eyewitness",
+      "name": "EyeWitness",
+      "description": "EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.",
+      "category": "reporting",
+      "command": "EyeWitness -f urls.txt --web",
+      "url": "https://github.com/redsiege/EyeWitness",
+      "documentation": "https://github.com/redsiege/EyeWitness",
+      "tags": [
+        "scanner",
+        "osint",
+        "screenshots"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "favirecon",
+      "name": "favirecon",
+      "description": "Use favicon.ico to improve your target recon phase",
+      "category": "reconnaissance",
+      "command": "echo https://www.github.com | favirecon",
+      "url": "https://github.com/edoardottt/favirecon",
+      "documentation": "https://github.com/edoardottt/favirecon",
+      "tags": [
+        "recon"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "mac",
+        "windows",
+        "linux"
+      ]
+    },
+    {
+      "id": "ffuf",
+      "name": "FFUF",
+      "description": "Fast web fuzzing tool for discovering hidden paths and parameters",
+      "category": "web-scanning",
+      "command": "ffuf -w wordlist.txt -u {url}/FUZZ",
+      "url": "https://github.com/ffuf/ffuf",
+      "documentation": "https://github.com/ffuf/ffuf#usage",
+      "tags": [
+        "web",
+        "fuzzing",
+        "enumeration"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "ffufai-1739873890674",
+      "name": "ffufai",
+      "description": "ffufai is an AI-powered wrapper for the popular web fuzzer ffuf. It automatically suggests file extensions for fuzzing based on the target URL and its headers, using either OpenAI's GPT or Anthropic's Claude AI models.",
+      "category": "reconnaissance",
+      "command": "python3 ffufai.py -u https://example.com/FUZZ -w /path/to/wordlist.txt",
+      "url": "https://github.com/jthack/ffufai",
+      "documentation": "https://github.com/jthack/ffufai?tab=readme-ov-file",
+      "tags": [
+        "web fuzzer",
+        "ai"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "freeway--1739874842339",
+      "name": "Freeway ",
+      "description": "Freeway is a Python scapy-based tool for WiFi penetration that aim to help ethical hackers and pentesters develop their skills and knowledge in auditing and securing home or enterprise networks.",
+      "category": "network-security",
+      "command": "sudo Freeway",
+      "url": "https://github.com/FLOCK4H/Freeway",
+      "documentation": "https://github.com/FLOCK4H/Freeway?tab=readme-ov-file#1-overview",
+      "tags": [
+        "ieee 802.11 packet monitoring",
+        "deauthentication attack",
+        "beacon flood",
+        "packet fuzzer",
+        "network audit",
+        "channel hopper",
+        "evil twin",
+        "packet crafter",
+        "arsenal"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux"
+      ]
+    },
+    {
+      "id": "gau-1740598366795",
+      "name": "GAU",
+      "description": "Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.",
+      "category": "reconnaissance",
+      "command": " cat domains.txt | gau --threads 5",
+      "url": "https://github.com/lc/gau",
+      "documentation": "https://github.com/lc/gau",
+      "tags": [
+        "crawler"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "windows",
+        "mac",
+        "linux"
+      ]
+    },
+    {
+      "id": "gobuster",
+      "name": "Gobuster",
+      "description": "Directory/file and DNS busting tool",
+      "category": "web-scanning",
+      "command": "gobuster dir -u {url} -w wordlist.txt",
+      "url": "https://github.com/OJ/gobuster",
+      "documentation": "https://github.com/OJ/gobuster/wiki",
+      "tags": [
+        "web",
+        "directory",
+        "dns"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "gowitness",
+      "name": "gowitness",
+      "description": "🔍 gowitness - a golang, web screenshot utility using Chrome Headless",
+      "category": "reporting",
+      "command": "gowitness scan single --url \"https://sensepost.com\" --write-db",
+      "url": "https://github.com/sensepost/gowitness",
+      "documentation": "https://github.com/sensepost/gowitness#a-golang-web-screenshot-utility-using-chrome-headless",
+      "tags": [
+        "screenshot"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "hakrawler-1739294899091",
+      "name": "Hakrawler",
+      "description": "Fast golang web crawler for gathering URLs and JavaScript file locations. This is basically a simple implementation of the awesome Gocolly library.",
+      "category": "reconnaissance",
+      "command": "cat urls.txt | hakrawler -timeout 5",
+      "url": "https://github.com/hakluke/hakrawler",
+      "documentation": "https://github.com/hakluke/hakrawler",
+      "tags": [
+        "crawler"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "description": "Password cracking tool for various protocols",
+      "category": "password-cracking",
+      "command": "hydra -l {username} -P wordlist.txt {target} {protocol}",
+      "url": "https://github.com/vanhauser-thc/thc-hydra",
+      "documentation": "https://github.com/vanhauser-thc/thc-hydra/wiki",
+      "tags": [
+        "password",
+        "cracking",
+        "brute-force"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "idor-1740330141967",
+      "name": "IDOR",
+      "description": "IDOR Forge is an advanced and versatile tool designed to detect Insecure Direct Object Reference (IDOR) vulnerabilities in web applications.",
+      "category": "web-scanning",
+      "command": "python IDOR-Forge.py -u \"https://example.com/api/resource?id=1\"",
+      "url": "https://github.com/errorfiathck/IDOR-Forge",
+      "documentation": "https://github.com/errorfiathck/IDOR-Forge",
+      "tags": [
+        "idors",
+        "scanner"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "john",
+      "name": "John the Ripper",
+      "description": "Password cracking tool",
+      "category": "password-cracking",
+      "command": "john --wordlist=wordlist.txt hash.txt",
+      "url": "https://www.openwall.com/john/",
+      "documentation": "https://www.openwall.com/john/doc/",
+      "tags": [
+        "password",
+        "cracking",
+        "hash"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "katana",
+      "name": "Katana",
+      "description": "A next-generation crawling and spidering framework.",
+      "category": "content-discovery",
+      "command": "katana -u https://tesla.com",
+      "url": "https://github.com/projectdiscovery/katan",
+      "documentation": "https://github.com/projectdiscovery/katana?tab=readme-ov-file#a-next-generation-crawling-and-spidering-framework",
+      "tags": [
+        "crawling",
+        "spidering"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "link-dumper-1740386463714",
+      "name": "Link Dumper",
+      "description": "Link Dumper is a powerful Python-based web crawler designed for pentesting and reconnaissance. It scans websites for URLs and extracts JavaScript (.js), text (.txt), JSON (.json), and XML (.xml) files. This is useful for subdomain enumeration, API key discovery, and security analysis.",
+      "category": "web-scanning",
+      "command": "bash main.sh",
+      "url": "https://github.com/walidzitouni/Link_dumper",
+      "documentation": "https://github.com/walidzitouni/Link_dumper",
+      "tags": [
+        "crawling",
+        "link extraction",
+        "javascript file detection"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "lucille",
+      "name": "Lucille",
+      "description": "Lucille is a comprehensive web application security testing tool designed for cybersecurity professionals. built with Python, Lucille offers a suite of user-friendly tools, it aims to provide an efficient and practical tools streamlining pentesting tasks and centralizing various audit and exploitation techniques.",
+      "category": "reconnaissance",
+      "command": "python lucille.py",
+      "url": "https://github.com/jasonxtn/Lucille",
+      "documentation": "https://github.com/jasonxtn/Lucille",
+      "tags": [
+        "recon",
+        "web exploit"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "masscan",
+      "name": "Masscan",
+      "description": "Mass IP port scanner, capable of scanning the entire internet in minutes",
+      "category": "network-scanning",
+      "command": "masscan -p1-65535 {target} --rate=10000",
+      "url": "https://github.com/robertdavidgraham/masscan",
+      "documentation": "https://github.com/robertdavidgraham/masscan/wiki",
+      "tags": [
+        "network",
+        "scanning",
+        "ip"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "metasploit",
+      "name": "Metasploit",
+      "description": "Penetration testing framework for exploiting vulnerabilities",
+      "category": "exploitation",
+      "command": "msfconsole",
+      "url": "https://www.metasploit.com/",
+      "documentation": "https://docs.rapid7.com/metasploit/",
+      "tags": [
+        "exploitation",
+        "payload",
+        "framework"
+      ],
+      "difficulty": "advanced",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "nikto",
+      "name": "Nikto",
+      "description": "Web server vulnerability scanner",
+      "category": "web-scanning",
+      "command": "nikto -h {url}",
+      "url": "https://github.com/sullo/nikto",
+      "documentation": "https://github.com/sullo/nikto/wiki",
+      "tags": [
+        "web",
+        "vulnerability",
+        "scanning"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "nmap",
+      "name": "Nmap",
+      "description": "Network discovery and security auditing tool",
+      "category": "network-scanning",
+      "command": "nmap -sV -p 1-65535 {target}",
+      "url": "https://nmap.org/",
+      "documentation": "https://nmap.org/book/man.html",
+      "tags": [
+        "network",
+        "scanning",
+        "enumeration"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "photon",
+      "name": "Photon",
+      "description": "Incredibly fast crawler designed for OSINT.",
+      "category": "reconnaissance",
+      "command": "python photon.py -u \"http://example.com\"",
+      "url": "https://github.com/s0md3v/Photon",
+      "documentation": "https://github.com/s0md3v/Photon?tab=readme-ov-file#incredibly-fast-crawler-designed-for-osint",
+      "tags": [
+        "scanner",
+        "osint"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "pphack",
+      "name": "pphack",
+      "description": "The Most Advanced Client-Side Prototype Pollution Scanner",
+      "category": "vulnerability-scanning",
+      "command": "echo https://edoardottt.github.io/pp-test/ | pphack",
+      "url": "https://github.com/edoardottt/pphack",
+      "documentation": "https://github.com/edoardottt/pphack",
+      "tags": [
+        "prototype pollution",
+        "scanner"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "reconftw-1741511931905",
+      "name": "reconFTW",
+      "description": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+      "category": "reconnaissance",
+      "command": "bash ./reconftw.sh -d target.com -a",
+      "url": "https://github.com/six2dez/reconftw",
+      "documentation": "https://github.com/six2dez/reconftw",
+      "tags": [
+        "recon",
+        "scanning"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "mac",
+        "windows",
+        "linux"
+      ]
+    },
+    {
+      "id": "rengine-1741511850600",
+      "name": "reNgine",
+      "description": "reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance ....",
+      "category": "reconnaissance",
+      "command": "sudo ./install.sh",
+      "url": "https://github.com/yogeshojha/rengine",
+      "documentation": "https://rengine.wiki/",
+      "tags": [
+        "recon",
+        "scanning"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "mac",
+        "windows",
+        "linux"
+      ]
+    },
+    {
+      "id": "scilla",
+      "name": "scilla",
+      "description": "Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration",
+      "category": "reconnaissance",
+      "command": "scilla subdomain -target target.domain",
+      "url": "https://github.com/edoardottt/scilla",
+      "documentation": "https://github.com/edoardottt/scilla",
+      "tags": [
+        "information gathering",
+        "dns",
+        "subdomains",
+        "ports",
+        "directories enumeration"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "sn1per-1740574400550",
+      "name": "Sn1per",
+      "description": "Attack Surface Management Platform",
+      "category": "vulnerability-scanning",
+      "command": "sniper -t <TARGET>",
+      "url": "https://github.com/1N3/Sn1per",
+      "documentation": "https://github.com/1N3/Sn1per",
+      "tags": [
+        "information gathering",
+        "recon"
+      ],
+      "difficulty": "advanced",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "sqlmap",
+      "name": "sqlmap",
+      "description": "Automatic SQL injection and database takeover tool",
+      "category": "web-exploitation",
+      "command": "sqlmap -u {url} --risk=3 --level=5",
+      "url": "http://sqlmap.org/",
+      "documentation": "https://github.com/sqlmapproject/sqlmap/wiki",
+      "tags": [
+        "sql-injection",
+        "database",
+        "exploitation"
+      ],
+      "difficulty": "advanced",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "subfinder",
+      "name": "Subfinder",
+      "description": "Fast passive subdomain enumeration tool",
+      "category": "reconnaissance",
+      "command": "subfinder -d {domain} -o subdomains.txt",
+      "url": "https://github.com/projectdiscovery/subfinder",
+      "documentation": "https://github.com/projectdiscovery/subfinder#readme",
+      "tags": [
+        "subdomain",
+        "enumeration",
+        "passive"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "sudomy",
+      "name": "Sudomy",
+      "description": "Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting",
+      "category": "reconnaissance",
+      "command": "sudomy -d bugcrowd.com -dP -eP -rS -cF -pS -tO -gW --httpx --dnsprobe  -aI webanalyze -sS",
+      "url": "https://github.com/screetsec/Sudomy",
+      "documentation": "https://github.com/screetsec/Sudomy#sudomy",
+      "tags": [
+        "scanner",
+        "subdomain enumeration"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "mac",
+        "linux",
+        "windows"
+      ]
+    },
+    {
+      "id": "vx0-by-zead-1739299190700",
+      "name": "vx0 by ZEAD",
+      "description": "VX0 is a simple and easy-to-use tool designed for subdomain enumeration, filtering specific data and subdomains and web archive data collection. It helps you discover subdomains, filter live ones, and extract sensitive data from the Wayback Machine.",
+      "category": "reconnaissance",
+      "command": "python3 vx0.py -d example.com",
+      "url": "https://github.com/ZEAD2006/vx0",
+      "documentation": "https://github.com/ZEAD2006/vx0",
+      "tags": [
+        "subdomains"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "whatweb",
+      "name": "Whatweb",
+      "description": "WhatWeb identifies websites. Its goal is to answer the question, \"What is that Website?\". WhatWeb recognises web technologies including content management systems (CMS), blogging platforms, statistic/analytics packages, JavaScript libraries, web servers, and embedded devices. WhatWeb has over 1800 plugins, each to recognise something different. WhatWeb also identifies version numbers, email addresses, account IDs, web framework modules, SQL errors, and more.",
+      "category": "reconnaissance",
+      "command": "whatweb target.com",
+      "url": "https://github.com/urbanadventurer/WhatWeb",
+      "documentation": "https://github.com/urbanadventurer/WhatWeb#whatweb---next-generation-web-scanner",
+      "tags": [
+        "scanner",
+        "technologies detector",
+        "osint"
+      ],
+      "difficulty": "beginner",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "wireshark",
+      "name": "Wireshark",
+      "description": "Network protocol analyzer",
+      "category": "network-analysis",
+      "command": "N/A (GUI-based tool)",
+      "url": "https://www.wireshark.org/",
+      "documentation": "https://www.wireshark.org/docs/",
+      "tags": [
+        "network",
+        "packet",
+        "analysis"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "wpscan",
+      "name": "WPScan",
+      "description": "WordPress vulnerability scanner",
+      "category": "web-scanning",
+      "command": "wpscan --url {url}",
+      "url": "https://wpscan.com/",
+      "documentation": "https://github.com/wpscanteam/wpscan/wiki",
+      "tags": [
+        "wordpress",
+        "vulnerability",
+        "scanning"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "xsstrike",
+      "name": "XSStrike",
+      "description": "Most advanced XSS scanner.",
+      "category": "vulnerability-scanning",
+      "command": "python xsstrike.py -u \"http://example.com/search.php?q=query\"",
+      "url": "https://github.com/s0md3v/XSStrike",
+      "documentation": "https://github.com/s0md3v/XSStrike#advanced-xss-detection-suite",
+      "tags": [
+        "xss",
+        "scanner"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "zap",
+      "name": "OWASP ZAP",
+      "description": "Web application security scanner",
+      "category": "web-scanning",
+      "command": "N/A (GUI-based tool)",
+      "url": "https://www.zaproxy.org/",
+      "documentation": "https://www.zaproxy.org/docs/",
+      "tags": [
+        "web",
+        "vulnerability",
+        "scanning"
+      ],
+      "difficulty": "intermediate",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    },
+    {
+      "id": "zero-e-1739874603906",
+      "name": "Zero-E",
+      "description": "Host discovery and service enumeration are essential in network pentests, but they can be tedious and time-consuming. Zero-E (ZrE) automates the entire process, from port and host discovery to detailed scans of active hosts, saving valuable time. With a tested, efficient methodology, ZrE offers zero-effort, zero-error network enumeration—no experience needed. It even generates various files for analysis, so you can relax while it does the work for you.",
+      "category": "network-security",
+      "command": "sudo ./zero-e",
+      "url": "https://github.com/Inscyght/Zero-E",
+      "documentation": "https://github.com/Inscyght/Zero-E#description",
+      "tags": [
+        "network",
+        "host discovery",
+        "service enumeration"
+      ],
+      "difficulty": "advanced",
+      "platform": [
+        "linux",
+        "mac",
+        "windows"
+      ]
+    }
+  ]
+}

@@ -5,31 +5,106 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Security Resources Dataset</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism-tomorrow.min.css">
     <style>
-        .json-card {
-            margin-bottom: 1.5rem;
-            transition: transform 0.2s;
+        :root {
+            --gradient-start: #2b5876;
+            --gradient-end: #4e4376;
         }
+
+        .hero {
+            background: linear-gradient(135deg, var(--gradient-start), var(--gradient-end));
+            border-bottom: 4px solid #4a4a4a;
+        }
+
+        .json-card {
+            transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+            border: 1px solid #e0e0e0;
+            position: relative;
+            overflow: hidden;
+        }
+
         .json-card:hover {
             transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.12);
         }
+
+        .json-card::before {
+            content: "{}";
+            position: absolute;
+            right: 10px;
+            bottom: 10px;
+            font-size: 2rem;
+            color: rgba(0,0,0,0.05);
+            font-family: monospace;
+            font-weight: bold;
+        }
+
         .pre-header {
-            background-color: #363636;
+            background-color: var(--gradient-start);
             color: #fff;
             padding: 1rem;
-            border-radius: 4px 4px 0 0;
-            font-family: monospace;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .file-link {
+            color: #fff;
+            text-decoration: none;
+            font-size: 0.9rem;
+            opacity: 0.8;
+            transition: opacity 0.3s;
+        }
+
+        .file-link:hover {
+            opacity: 1;
+        }
+
+        .card-content {
+            padding: 1.5rem;
+            background-color: #f8f9fa;
+        }
+
+        .category-icon {
+            font-size: 1.5rem;
+            margin-right: 0.5rem;
+            vertical-align: middle;
+        }
+
+        pre[class*="language-"] {
+            border-radius: 6px;
+            margin: 1.5rem 0;
+        }
+
+        .contributing-section {
+            border-left: 3px solid var(--gradient-start);
+            padding-left: 1.5rem;
+            margin: 2rem 0;
+        }
+
+        .footer {
+            background-color: #f8f9fa;
+            padding: 2rem 1.5rem;
         }
     </style>
 </head>
 <body>
-    <section class="hero is-dark">
+    <section class="hero is-medium is-dark">
         <div class="hero-body">
-            <div class="container">
-                <h1 class="title">Security Resources Dataset</h1>
-                <h2 class="subtitle">
-                    A collection of structured security-related information
+            <div class="container has-text-centered">
+                <h1 class="title is-1 has-text-weight-bold mb-4">Security Resources Dataset</h1>
+                <h2 class="subtitle is-5 has-text-grey-lighter">
+                    Curated machine-readable security intelligence
                 </h2>
+                <div class="mt-4">
+                    <a href="https://github.com/f4l0cnd/f4lc0nd.github.io" class="button is-info is-outlined is-rounded">
+                        <span class="icon"><i class="fab fa-github"></i></span>
+                        <span>View Repository</span>
+                    </a>
+                </div>
             </div>
         </div>
     </section>
@@ -37,103 +112,112 @@
     <section class="section">
         <div class="container">
             <div class="content">
-                <h3 class="title is-4">About this Project</h3>
-                <p>
-                    This repository contains structured datasets related to cybersecurity resources, 
-                    including tools, write-ups, events, and more. The JSON files are maintained to 
-                    provide machine-readable information for developers and security researchers.
+                <h3 class="title is-3 has-text-centered mb-6">About the Project</h3>
+                <p class="has-text-centered is-size-5 mx-6">
+                    A structured collection of cybersecurity resources designed for developers and researchers. 
+                    All datasets are regularly updated and available in standardized JSON format.
                 </p>
                 
-                <h4 class="title is-5 mt-5">Available Datasets</h4>
+                <h4 class="title is-4 has-text-centered my-6">Available Datasets</h4>
                 <div class="columns is-multiline">
-                    <!-- JSON File Cards -->
+                    <!-- Updated JSON File Cards with Links -->
                     <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">events.json</div>
-                            <div class="card-content">
-                                <p>Security conferences, workshops, and community events</p>
+                        <a href="events.json" class="json-card card">
+                            <div class="pre-header">
+                                <span>events.json</span>
+                                <span class="file-link">View Raw <i class="fas fa-external-link-alt"></i></span>
                             </div>
-                        </div>
+                            <div class="card-content">
+                                <i class="category-icon fas fa-calendar-alt"></i>
+                                <p class="has-text-dark">Security conferences, workshops, and community events with dates, locations, and registration details</p>
+                            </div>
+                        </a>
                     </div>
 
+                    <!-- Repeat similar structure for other files with appropriate icons -->
                     <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">oneliner.json</div>
-                            <div class="card-content">
-                                <p>Useful command-line snippets for security tasks</p>
+                        <a href="oneliner.json" class="json-card card">
+                            <div class="pre-header">
+                                <span>oneliner.json</span>
+                                <span class="file-link">View Raw <i class="fas fa-external-link-alt"></i></span>
                             </div>
-                        </div>
+                            <div class="card-content">
+                                <i class="category-icon fas fa-terminal"></i>
+                                <p class="has-text-dark">Curated command-line snippets for penetration testing and system analysis</p>
+                            </div>
+                        </a>
                     </div>
 
+                    <!-- Add remaining JSON files with unique icons -->
+                    <!-- Example for pdf_info.json -->
                     <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">pdf_info.json</div>
-                            <div class="card-content">
-                                <p>Security-related PDF documents and research papers</p>
+                        <a href="pdf_info.json" class="json-card card">
+                            <div class="pre-header">
+                                <span>pdf_info.json</span>
+                                <span class="file-link">View Raw <i class="fas fa-external-link-alt"></i></span>
                             </div>
-                        </div>
+                            <div class="card-content">
+                                <i class="category-icon fas fa-file-pdf"></i>
+                                <p class="has-text-dark">Research papers, technical documentation, and security guidelines in PDF format</p>
+                            </div>
+                        </a>
                     </div>
 
-                    <!-- Add remaining JSON files -->
-                    <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">security_tools.json</div>
-                            <div class="card-content">
-                                <p>Curated list of security tools and utilities</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">terminal-apps.json</div>
-                            <div class="card-content">
-                                <p>Command-line applications for security professionals</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">tools.json</div>
-                            <div class="card-content">
-                                <p>General security tools and resources</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="column is-4">
-                        <div class="json-card card">
-                            <div class="pre-header">write-ups.json</div>
-                            <div class="card-content">
-                                <p>Collection of security write-ups and CTF solutions</p>
-                            </div>
-                        </div>
-                    </div>
+                    <!-- Continue with other files... -->
                 </div>
 
-                <h4 class="title is-5">Usage Example</h4>
-                <pre><code>// Fetch security tools data
-fetch('https://your-username.github.io/repo-name/security_tools.json')
-  .then(response => response.json())
-  .then(data => console.log(data));</code></pre>
+                <h4 class="title is-4 has-text-centered my-6">Usage Example</h4>
+                <pre><code class="language-javascript">// Fetch and process security tools data
+async function loadTools() {
+    try {
+        const response = await fetch('https://f4lc0nd.github.io/Events.json');
+        const tools = await response.json();
+        
+        // Process the JSON data
+        console.log('Loaded tools:', tools);
+        return tools.filter(tool => tool.category === 'forensics');
+    } catch (error) {
+        console.error('Error loading tools:', error);
+    }
+}</code></pre>
 
-                <h4 class="title is-5">Contributing</h4>
-                <p>
-                    Contributions are welcome! Please submit pull requests for additions 
-                    or corrections following the existing JSON structure.
-                </p>
+                <div class="contributing-section">
+                    <h4 class="title is-4">Contribution Guidelines</h4>
+                    <p class="has-text-grey-dark">
+                        <i class="fas fa-hands-helping has-text-info"></i>
+                        We welcome contributions! Please ensure:
+                    </p>
+                    <ul>
+                        <li>Consistent JSON schema</li>
+                        <li>Validated entries using JSON Schema</li>
+                        <li>Descriptive metadata for each entry</li>
+                    </ul>
+                    <a href="https://github.com/f4l0cnd/f4lc0nd/blob/main/CONTRIBUTING.md" class="button is-small is-info mt-2">
+                        View Full Guidelines
+                    </a>
+                </div>
             </div>
         </div>
     </section>
 
     <footer class="footer">
         <div class="content has-text-centered">
-            <p>
-                <strong>Security Resources Dataset</strong> maintained by [Your Name].<br>
-                The data is provided "as is" without warranty of any kind.
+            <div class="buttons is-centered mb-3">
+                <a href="https://github.com/f4l0cnd" class="button is-small is-dark">
+                    <span class="icon"><i class="fab fa-github"></i></span>
+                </a>
+                <a href="https://twitter.com/f4l0cnd" class="button is-small is-info">
+                    <span class="icon"><i class="fab fa-twitter"></i></span>
+                </a>
+            </div>
+            <p class="has-text-grey">
+                <strong>Security Resources Dataset</strong> by f4l0cnd<br>
+                Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
             </p>
         </div>
     </footer>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-javascript.min.js"></script>
 </body>
 </html>

@@ -221,7 +221,7 @@
                 <pre><code class="language-javascript">// Fetch and process security tools data
 async function loadTools() {
     try {
-        const response = await fetch('https://f4lc0nd.github.io/Events.json');
+        const response = await fetch('https://f4lc0nd.github.io/Tools.json');
         const tools = await response.json();
         
         // Process the JSON data
@@ -229,7 +229,9 @@ async function loadTools() {
         return tools.filter(tool => tool.category === 'forensics');
     } catch (error) {
         console.error('Error loading tools:', error);
+        return [];
     }
+    
 }</code></pre>
 
                 <div class="contributing-section">

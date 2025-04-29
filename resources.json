@@ -1,0 +1,439 @@
+{
+  "resources": [
+    {
+      "category": "Learning Platforms",
+      "items": [
+        {
+          "title": "1 - TryHackMe",
+          "description": "Interactive cybersecurity learning platform with hands-on labs and tutorials",
+          "url": "https://tryhackme.com"
+        },
+        {
+          "title": "2 - HackTheBox",
+          "description": "Advanced penetration testing labs and challenges",
+          "url": "https://www.hackthebox.com"
+        },
+        {
+          "title": "3 - PortSwigger Web Security Academy",
+          "description": "Free web security training with detailed learning materials",
+          "url": "https://portswigger.net/web-security"
+        },
+        {
+          "title": "4 - PentesterLab",
+          "description": "Web application security training platform with practical exercises",
+          "url": "https://pentesterlab.com"
+        },
+        {
+          "title": "5 - VulnHub",
+          "description": "Free vulnerable VMs for practical security training",
+          "url": "https://www.vulnhub.com"
+        },
+        {
+          "title": "6 - StationX",
+          "description": "StationX specializes in cyber security training for novices and cyber security professionals alike",
+          "url": "https://www.stationx.net/"
+        },
+        {
+          "title": "7 - Udemy",
+          "description": "Udemy is home to perhaps the largest catalog of online classes on the Internet. It is by no means a cyber security-specific platform.",
+          "url": "https://udemy.com"
+        },
+        {
+          "title": "8 - Cybrary",
+          "description": "Cybrary is a cyber security specific training platform. It offers over 2,000 self-paced courses that are instructor-led and designed to provide you with real-world skills on a variety of cyber security topics.",
+          "url": "https://www.cybrary.it/"
+        },
+        {
+          "title": "9 - ITPro",
+          "description": "ITPRO is an IT learning platform with a diverse offering of courses.",
+          "url": "https://www.itpro.tv/"
+        },
+        {
+          "title": "10 - Altered Security",
+          "description": "Altered Security is a cyber security training platform specializing in ethical hacking.",
+          "url": "https://www.alteredsecurity.com/"
+        },
+        {
+          "title": "11 - OffSec",
+          "description": "OffSec is an infosec and cyber security training platform that specializes in offering courses on information security, pentesting, and digital forensics.",
+          "url": "https://www.offsec.com/"
+        },
+        {
+          "title": "12 - Professor Messer",
+          "description": "Professor Messer is an instructor who offers in-depth test prep video courses for CompTIA certifications.",
+          "url": "https://www.professormesser.com"
+        }
+      ]
+    },
+    {
+      "category": "Documentation & References",
+      "items": [
+        {
+          "title": "OWASP",
+          "description": "Comprehensive web security resources and best practices",
+          "url": "https://owasp.org"
+        },
+        {
+          "title": "Exploit Database",
+          "description": "Archive of exploits and vulnerable software",
+          "url": "https://www.exploit-db.com"
+        },
+        {
+          "title": "MITRE ATT&CK",
+          "description": "Knowledge base of adversary tactics and techniques",
+          "url": "https://attack.mitre.org"
+        },
+        {
+          "title": "CWE",
+          "description": "Common Weakness Enumeration - a community-developed list of software and hardware weakness types",
+          "url": "https://cwe.mitre.org"
+        },
+        {
+          "title": "CVE Details",
+          "description": "Detailed information about Common Vulnerabilities and Exposures",
+          "url": "https://www.cvedetails.com"
+        }
+      ]
+    },
+    {
+      "category": "Tools & Utilities",
+      "items": [
+        {
+          "title": "Kali Linux",
+          "description": "Security testing operating system with pre-installed tools",
+          "url": "https://www.kali.org"
+        },
+        {
+          "title": "Metasploit",
+          "description": "Penetration testing framework",
+          "url": "https://www.metasploit.com"
+        },
+        {
+          "title": "Wireshark",
+          "description": "Network protocol analyzer for packet capture",
+          "url": "https://www.wireshark.org"
+        },
+        {
+          "title": "Burp Suite",
+          "description": "Web application security testing tool",
+          "url": "https://portswigger.net/burp"
+        },
+        {
+          "title": "Nmap",
+          "description": "Network discovery and security auditing tool",
+          "url": "https://nmap.org"
+        },
+        {
+          "title": "John the Ripper",
+          "description": "Password cracker and security testing tool",
+          "url": "https://www.openwall.com/john"
+        }
+      ]
+    },
+    {
+      "category": "Bug Bounty Platforms",
+      "items": [
+        {
+          "title": "1 - HackerOne",
+          "description": "Bug bounty platform connecting security researchers with organizations",
+          "url": "https://hackerone.com"
+        },
+        {
+          "title": "2 - Bugcrowd",
+          "description": "Crowdsourced security platform for bug bounty programs",
+          "url": "https://www.bugcrowd.com"
+        },
+        {
+          "title": "3 - Intigriti",
+          "description": "European bug bounty platform with various security programs",
+          "url": "https://www.intigriti.com"
+        },
+        {
+          "title": "4 - YesWeHack",
+          "description": "a crowdsourced platform for bug bounty programs where ethical hackers can report security exploits and vulnerabilities.",
+          "url": "https://www.yeswehack.com/"
+        },
+        {
+          "title": "5 - Synack",
+          "description": "American tech corporation that provides automated discovery of exploitable vulnerabilities, was founded by some NSA agents",
+          "url": "https://www.synack.com/ "
+        },
+        {
+          "title": "6 - HackenProof",
+          "description": "bug bounty platform, crypto exchange analytical ranking platform, cybersecurity conference HackIT, and a cyber school",
+          "url": "https://www.hackenproof.com/"
+        }
+      ]
+    },
+    {
+      "category": "Communities & Forums",
+      "items": [
+        {
+          "title": "Reddit r/netsec",
+          "description": "Information security news and discussion",
+          "url": "https://www.reddit.com/r/netsec"
+        },
+        {
+          "title": "Hack Forums",
+          "description": "Community for security professionals and enthusiasts",
+          "url": "https://hackforums.net"
+        },
+        {
+          "title": "Security Stack Exchange",
+          "description": "Q&A site for information security professionals",
+          "url": "https://security.stackexchange.com"
+        }
+      ]
+    },
+    {
+      "category": "Open Directory Search",
+      "items": [
+        {
+          "title": "Open Directory Finder",
+          "description": "Tool for finding open directories and files",
+          "url": "http://ewasion.github.io/opendirectory-finder/"
+        },
+        {
+          "title": "Eye of Justice",
+          "description": "Open directory search tool",
+          "url": "http://eyeofjustice.com/od/"
+        },
+        {
+          "title": "Filer",
+          "description": "Open directory search utility",
+          "url": "http://rsch.neocities.org/gen2/filer.html"
+        },
+        {
+          "title": "Lumpy Soft",
+          "description": "Open directory search service",
+          "url": "http://lumpysoft.com"
+        },
+        {
+          "title": "Open Directories",
+          "description": "Open directory search tool by Reece Mercer",
+          "url": "http://open-directories.reecemercer.dev"
+        },
+        {
+          "title": "SnowFL",
+          "description": "Open directory search engine",
+          "url": "http://snowfl.com"
+        },
+        {
+          "title": "Open Directory Search",
+          "description": "Search engine for open directories",
+          "url": "http://opendirectorysearch.tk"
+        },
+        {
+          "title": "Lendx",
+          "description": "Open directory search service",
+          "url": "http://lendx.org"
+        },
+        {
+          "title": "l33tech ODS",
+          "description": "Open directory search tool",
+          "url": "http://sites.google.com/view/l33tech/tools/ods"
+        },
+        {
+          "title": "Palined Search",
+          "description": "Open directory search engine",
+          "url": "http://palined.com/search/"
+        }
+      ]
+    },
+    {
+      "category": "Internet Search & Reconnaissance",
+      "items": [
+        {
+          "title": "Censys",
+          "description": "Internet-wide scanning and search engine",
+          "url": "https://censys.io"
+        },
+        {
+          "title": "Shodan",
+          "description": "Search engine for Internet-connected devices",
+          "url": "https://shodan.io"
+        },
+        {
+          "title": "Viz",
+          "description": "GreyNoise visualization tool",
+          "url": "https://viz.greynoise.io/table"
+        },
+        {
+          "title": "ZoomEye",
+          "description": "Cyberspace search engine",
+          "url": "https://zoomeye.org"
+        },
+        {
+          "title": "Fofa",
+          "description": "Cyberspace search engine",
+          "url": "https://fofa.so"
+        },
+        {
+          "title": "Onyphe",
+          "description": "Cyber defense search engine",
+          "url": "https://onyphe.io"
+        },
+        {
+          "title": "BinaryEdge",
+          "description": "Internet-wide scanning and search engine",
+          "url": "https://app.binaryedge.io"
+        },
+        {
+          "title": "Hunter.io",
+          "description": "Email finder and domain search",
+          "url": "https://hunter.io"
+        },
+        {
+          "title": "Wigle",
+          "description": "WiFi network mapping and search",
+          "url": "https://wigle.net"
+        },
+        {
+          "title": "Lampire",
+          "description": "Internet reconnaissance platform",
+          "url": "https://Lampire.io"
+        }
+      ]
+    },
+    {
+      "category": "People Search",
+      "items": [
+        {
+          "title": "Thats Them",
+          "description": "People search and background check service",
+          "url": "https://thatsthem.com"
+        },
+        {
+          "title": "Lullar",
+          "description": "People search engine",
+          "url": "http://www.lullar.com"
+        },
+        {
+          "title": "Yasni",
+          "description": "People search and professional profiles",
+          "url": "http://www.yasni.com"
+        },
+        {
+          "title": "ZabaSearch",
+          "description": "People search directory",
+          "url": "https://www.zabasearch.com"
+        },
+        {
+          "title": "Webmii",
+          "description": "People search and web presence finder",
+          "url": "https://webmii.com"
+        },
+        {
+          "title": "iPeople",
+          "description": "People search directory",
+          "url": "http://www.ipeople.com"
+        },
+        {
+          "title": "True People Search",
+          "description": "People search and background information",
+          "url": "http://truepeoplesearch.com"
+        },
+        {
+          "title": "Find People Search",
+          "description": "People search and contact information",
+          "url": "https://findpeoplesearch.com"
+        },
+        {
+          "title": "Anywho",
+          "description": "People search and phone directory",
+          "url": "https://anywho.com"
+        },
+        {
+          "title": "JohnDoe",
+          "description": "People search service",
+          "url": "https://johndoe.com"
+        },
+        {
+          "title": "CV Gadget",
+          "description": "Professional profile search",
+          "url": "https://cvgadget.com"
+        },
+        {
+          "title": "Telephone Directory",
+          "description": "Phone directory and people search",
+          "url": "https://w3.telephonedirectories.us/People-Search"
+        },
+        {
+          "title": "MyLife People Search",
+          "description": "People search and background information",
+          "url": "https://www.mylife.com/people-search/"
+        }
+      ]
+    },
+    {
+      "category": "Username Search Tools",
+      "items": [
+        {
+          "title": "PeekYou",
+          "description": "Username and people search across social networks",
+          "url": "https://peekyou.com"
+        },
+        {
+          "title": "SearchPof",
+          "description": "Username search across multiple platforms",
+          "url": "https://searchpof.com"
+        },
+        {
+          "title": "Knowem",
+          "description": "Username availability checker across social networks",
+          "url": "https://knowem.com"
+        },
+        {
+          "title": "Namechk",
+          "description": "Username search across social networks",
+          "url": "https://namechk.com"
+        },
+        {
+          "title": "Snapdex",
+          "description": "Username search and social media presence finder",
+          "url": "https://www.snapdex.com"
+        },
+        {
+          "title": "GetPeopleSearch Username",
+          "description": "Username search tool",
+          "url": "https://getpeoplesearch.com/username"
+        },
+        {
+          "title": "Match UK",
+          "description": "Username search on dating platform",
+          "url": "https://uk.match.com"
+        },
+        {
+          "title": "Lullar",
+          "description": "Username search across social networks",
+          "url": "https://lullar-com-3.appspot.com"
+        },
+        {
+          "title": "Check Usernames",
+          "description": "Username availability checker",
+          "url": "https://checkusernames.com"
+        },
+        {
+          "title": "Namecheckr",
+          "description": "Username search across social networks",
+          "url": "https://www.namecheckr.com"
+        },
+        {
+          "title": "User Sherlock",
+          "description": "Username search and social media presence finder",
+          "url": "http://usersherlock.com"
+        },
+        {
+          "title": "Instant Username",
+          "description": "Username search and availability checker",
+          "url": "http://instantusername.com"
+        },
+        {
+          "title": "Usersearch",
+          "description": "Username search across multiple platforms",
+          "url": "https://usersearch.org"
+        }
+      ]
+    }
+  ]
+}
